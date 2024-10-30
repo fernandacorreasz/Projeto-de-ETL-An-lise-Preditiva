@@ -19,7 +19,7 @@ Siga os passos abaixo para rodar o projeto em um ambiente Dockerizado.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [ https://github.com/seu-usuario/seu-repositorio.git](https://github.com/fernandacorreasz/Projeto-de-ETL-An-lise-Preditiva.git)
 cd seu-repositorio
 ```
 
