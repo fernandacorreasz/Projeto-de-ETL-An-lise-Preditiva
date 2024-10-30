@@ -54,7 +54,7 @@ docker run -it --rm --network etl-network etl-analise-preditiva
 ### 6. Verificar o Banco de Dados
 
 ```bash
-docker exec -it postgres_container psql -U user_admin -d robotics_lab_system
+docker exec -it postgres_container psql -U user_admin -d app-analise-preditiva
 ```
 
 ### 7. Parar os Containers
