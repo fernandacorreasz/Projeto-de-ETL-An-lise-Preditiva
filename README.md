@@ -11,46 +11,54 @@ Este projeto foi desenvolvido para a disciplina de **Análise Preditiva** como p
 - Docker
 - Docker Compose
 
+
 ## Instruções para Execução
 
 Siga os passos abaixo para rodar o projeto em um ambiente Dockerizado.
 
 ### 1. Clonar o Repositório
 
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+```
+
+### 2. Construir a Imagem da Aplicação
+
+Use o comando a seguir para construir a imagem Docker da aplicação ETL:
+
+```bash
 docker build -t etl-analise-preditiva .
+```
 
+### 3. Criar a Rede Docker
 
-2. Construir a Imagem da Aplicação
+Crie uma rede Docker para permitir a comunicação entre os containers:
 
-bash
-Copiar código
-docker build -t etl-analise-preditiva .
-
-3. Criar a Rede Docker
-bash
-Copiar código
+```bash
 docker network create etl-network
+```
 
+### 4. Subir o Banco de Dados PostgreSQL
 
-4. Subir o Banco de Dados PostgreSQL
-bash
-Copiar código
+```bash
 docker-compose up -d
+```
 
+### 5. Executar o Processo ETL
 
-5. Executar o Processo ETL
-bash
-Copiar código
+```bash
 docker run -it --rm --network etl-network etl-analise-preditiva
+```
 
+### 6. Verificar o Banco de Dados
 
-6. Verificar o Banco de Dados
-bash
-Copiar código
+```bash
 docker exec -it postgres_container psql -U user_admin -d robotics_lab_system
+```
 
+### 7. Parar os Containers
 
-7. Parar os Containers
-bash
-Copiar código
+```bash
 docker-compose down
+```
