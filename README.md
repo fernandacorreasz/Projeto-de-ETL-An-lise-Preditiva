@@ -17,6 +17,40 @@ Siga os passos abaixo para rodar o projeto em um ambiente Dockerizado.
 
 ### 1. Clonar o Repositório
 
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+docker build -t etl-analise-preditiva .
+
+
+2. Construir a Imagem da Aplicação
+
+bash
+Copiar código
+docker build -t etl-analise-preditiva .
+
+3. Criar a Rede Docker
+bash
+Copiar código
+docker network create etl-network
+
+
+4. Subir o Banco de Dados PostgreSQL
+bash
+Copiar código
+docker-compose up -d
+
+
+5. Executar o Processo ETL
+bash
+Copiar código
+docker run -it --rm --network etl-network etl-analise-preditiva
+
+
+6. Verificar o Banco de Dados
+bash
+Copiar código
+docker exec -it postgres_container psql -U user_admin -d robotics_lab_system
+
+
+7. Parar os Containers
+bash
+Copiar código
+docker-compose down
