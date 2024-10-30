@@ -1,0 +1,5891 @@
+{
+"tabela_json": [
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 27686.61,
+		"desmatado_2022" : 7271.39,
+		"incremento_2021_2022" : 46.04,
+		"floresta_2022" : 20415.22
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 13804.15,
+		"desmatado_2022" : 7869.22,
+		"incremento_2021_2022" : 53.04,
+		"floresta_2022" : 5934.93
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 40506.01,
+		"desmatado_2022" : 19355.66,
+		"incremento_2021_2022" : 62.56,
+		"floresta_2022" : 21150.35
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 6064.51,
+		"desmatado_2022" : 1321.49,
+		"incremento_2021_2022" : 42.73,
+		"floresta_2022" : 4743.02
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 11793.39,
+		"desmatado_2022" : 814.18,
+		"incremento_2021_2022" : 105.66,
+		"floresta_2022" : 10979.21
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 3237.61,
+		"desmatado_2022" : 1174.79,
+		"incremento_2021_2022" : 168.54,
+		"floresta_2022" : 2062.82
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 36936.02,
+		"desmatado_2022" : 11689.21,
+		"incremento_2021_2022" : 94.44,
+		"floresta_2022" : 25246.81
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 32130.22,
+		"desmatado_2022" : 694.34,
+		"incremento_2021_2022" : 98.15,
+		"floresta_2022" : 31435.88
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 19085.45,
+		"desmatado_2022" : 10061.19,
+		"incremento_2021_2022" : 101.95,
+		"floresta_2022" : 9024.26
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 59785.98,
+		"desmatado_2022" : 5046.24,
+		"incremento_2021_2022" : 14.38,
+		"floresta_2022" : 54739.74
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 38076.11,
+		"desmatado_2022" : 6115.17,
+		"incremento_2021_2022" : 129.28,
+		"floresta_2022" : 31960.94
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 28806.7,
+		"desmatado_2022" : 13798.42,
+		"incremento_2021_2022" : 152.68,
+		"floresta_2022" : 15008.28
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 50521.38,
+		"desmatado_2022" : 26225.3,
+		"incremento_2021_2022" : 81.41,
+		"floresta_2022" : 24296.08
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 50888.63,
+		"desmatado_2022" : 22878.67,
+		"incremento_2021_2022" : 175.98,
+		"floresta_2022" : 28009.96
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 32911.0,
+		"desmatado_2022" : 692.51,
+		"incremento_2021_2022" : 55.22,
+		"floresta_2022" : 32218.49
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 51911.67,
+		"desmatado_2022" : 30849.01,
+		"incremento_2021_2022" : 198.34,
+		"floresta_2022" : 21062.66
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 21057.4,
+		"desmatado_2022" : 11069.17,
+		"incremento_2021_2022" : 164.09,
+		"floresta_2022" : 9988.23
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 57203.9,
+		"desmatado_2022" : 23492.11,
+		"incremento_2021_2022" : 191.54,
+		"floresta_2022" : 33711.79
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 55795.96,
+		"desmatado_2022" : 12329.11,
+		"incremento_2021_2022" : 186.66,
+		"floresta_2022" : 43466.85
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 31826.93,
+		"desmatado_2022" : 16472.66,
+		"incremento_2021_2022" : 109.2,
+		"floresta_2022" : 15354.27
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 42300.37,
+		"desmatado_2022" : 21693.95,
+		"incremento_2021_2022" : 176.18,
+		"floresta_2022" : 20606.42
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 58039.58,
+		"desmatado_2022" : 30951.33,
+		"incremento_2021_2022" : 124.65,
+		"floresta_2022" : 27088.25
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 52865.02,
+		"desmatado_2022" : 4173.1,
+		"incremento_2021_2022" : 146.21,
+		"floresta_2022" : 48691.92
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 17890.96,
+		"desmatado_2022" : 8196.23,
+		"incremento_2021_2022" : 24.55,
+		"floresta_2022" : 9694.73
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 39255.01,
+		"desmatado_2022" : 16361.6,
+		"incremento_2021_2022" : 95.14,
+		"floresta_2022" : 22893.41
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 26117.47,
+		"desmatado_2022" : 2977.7,
+		"incremento_2021_2022" : 25.81,
+		"floresta_2022" : 23139.77
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 12526.65,
+		"desmatado_2022" : 1230.94,
+		"incremento_2021_2022" : 156.21,
+		"floresta_2022" : 11295.71
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 2448.97,
+		"desmatado_2022" : 511.53,
+		"incremento_2021_2022" : 59.17,
+		"floresta_2022" : 1937.44
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 58009.08,
+		"desmatado_2022" : 3981.0,
+		"incremento_2021_2022" : 122.61,
+		"floresta_2022" : 54028.08
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 49886.31,
+		"desmatado_2022" : 29056.3,
+		"incremento_2021_2022" : 44.64,
+		"floresta_2022" : 20830.01
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 31421.96,
+		"desmatado_2022" : 3719.99,
+		"incremento_2021_2022" : 59.6,
+		"floresta_2022" : 27701.97
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 13537.22,
+		"desmatado_2022" : 6551.48,
+		"incremento_2021_2022" : 170.95,
+		"floresta_2022" : 6985.74
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 1667.39,
+		"desmatado_2022" : 937.34,
+		"incremento_2021_2022" : 66.67,
+		"floresta_2022" : 730.05
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 6826.09,
+		"desmatado_2022" : 926.1,
+		"incremento_2021_2022" : 93.07,
+		"floresta_2022" : 5899.99
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 45711.81,
+		"desmatado_2022" : 6813.42,
+		"incremento_2021_2022" : 193.01,
+		"floresta_2022" : 38898.39
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 20637.56,
+		"desmatado_2022" : 11292.86,
+		"incremento_2021_2022" : 194.81,
+		"floresta_2022" : 9344.7
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 30595.2,
+		"desmatado_2022" : 3342.12,
+		"incremento_2021_2022" : 87.8,
+		"floresta_2022" : 27253.08
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 48713.31,
+		"desmatado_2022" : 10077.46,
+		"incremento_2021_2022" : 60.56,
+		"floresta_2022" : 38635.85
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 56213.3,
+		"desmatado_2022" : 23052.1,
+		"incremento_2021_2022" : 188.31,
+		"floresta_2022" : 33161.2
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 49729.32,
+		"desmatado_2022" : 26596.68,
+		"incremento_2021_2022" : 62.84,
+		"floresta_2022" : 23132.64
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 44064.77,
+		"desmatado_2022" : 6326.28,
+		"incremento_2021_2022" : 50.74,
+		"floresta_2022" : 37738.49
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 8982.07,
+		"desmatado_2022" : 5091.01,
+		"incremento_2021_2022" : 153.69,
+		"floresta_2022" : 3891.06
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 25776.59,
+		"desmatado_2022" : 4549.02,
+		"incremento_2021_2022" : 42.92,
+		"floresta_2022" : 21227.57
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 57125.74,
+		"desmatado_2022" : 13749.4,
+		"incremento_2021_2022" : 59.92,
+		"floresta_2022" : 43376.34
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 16751.23,
+		"desmatado_2022" : 702.18,
+		"incremento_2021_2022" : 95.57,
+		"floresta_2022" : 16049.05
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 31693.27,
+		"desmatado_2022" : 5147.94,
+		"incremento_2021_2022" : 40.85,
+		"floresta_2022" : 26545.33
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 38942.07,
+		"desmatado_2022" : 2166.5,
+		"incremento_2021_2022" : 90.64,
+		"floresta_2022" : 36775.57
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 6752.54,
+		"desmatado_2022" : 1799.38,
+		"incremento_2021_2022" : 114.7,
+		"floresta_2022" : 4953.16
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 44115.88,
+		"desmatado_2022" : 13426.15,
+		"incremento_2021_2022" : 117.44,
+		"floresta_2022" : 30689.73
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 15744.49,
+		"desmatado_2022" : 3210.21,
+		"incremento_2021_2022" : 117.13,
+		"floresta_2022" : 12534.28
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 57020.2,
+		"desmatado_2022" : 11065.85,
+		"incremento_2021_2022" : 56.1,
+		"floresta_2022" : 45954.35
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 28995.13,
+		"desmatado_2022" : 1799.34,
+		"incremento_2021_2022" : 171.82,
+		"floresta_2022" : 27195.79
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 7118.04,
+		"desmatado_2022" : 3072.31,
+		"incremento_2021_2022" : 108.94,
+		"floresta_2022" : 4045.73
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 30784.97,
+		"desmatado_2022" : 2934.02,
+		"incremento_2021_2022" : 84.36,
+		"floresta_2022" : 27850.95
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 48142.55,
+		"desmatado_2022" : 2694.78,
+		"incremento_2021_2022" : 135.49,
+		"floresta_2022" : 45447.77
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 1721.1,
+		"desmatado_2022" : 847.17,
+		"incremento_2021_2022" : 63.02,
+		"floresta_2022" : 873.93
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 25144.38,
+		"desmatado_2022" : 3065.68,
+		"incremento_2021_2022" : 127.84,
+		"floresta_2022" : 22078.7
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 27148.32,
+		"desmatado_2022" : 7847.65,
+		"incremento_2021_2022" : 26.71,
+		"floresta_2022" : 19300.67
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 51670.56,
+		"desmatado_2022" : 8419.17,
+		"incremento_2021_2022" : 102.07,
+		"floresta_2022" : 43251.39
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 20811.4,
+		"desmatado_2022" : 3184.63,
+		"incremento_2021_2022" : 145.77,
+		"floresta_2022" : 17626.77
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 49413.46,
+		"desmatado_2022" : 10083.93,
+		"incremento_2021_2022" : 18.88,
+		"floresta_2022" : 39329.53
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 48162.84,
+		"desmatado_2022" : 28734.99,
+		"incremento_2021_2022" : 56.51,
+		"floresta_2022" : 19427.85
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 54532.68,
+		"desmatado_2022" : 26415.35,
+		"incremento_2021_2022" : 26.67,
+		"floresta_2022" : 28117.33
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 8549.84,
+		"desmatado_2022" : 3131.73,
+		"incremento_2021_2022" : 99.68,
+		"floresta_2022" : 5418.11
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 3708.16,
+		"desmatado_2022" : 1250.17,
+		"incremento_2021_2022" : 98.78,
+		"floresta_2022" : 2457.99
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 25200.26,
+		"desmatado_2022" : 11499.5,
+		"incremento_2021_2022" : 178.74,
+		"floresta_2022" : 13700.76
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 55712.69,
+		"desmatado_2022" : 19822.19,
+		"incremento_2021_2022" : 107.42,
+		"floresta_2022" : 35890.5
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 26208.09,
+		"desmatado_2022" : 1762.43,
+		"incremento_2021_2022" : 123.03,
+		"floresta_2022" : 24445.66
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 19232.36,
+		"desmatado_2022" : 9072.11,
+		"incremento_2021_2022" : 45.03,
+		"floresta_2022" : 10160.25
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 33341.03,
+		"desmatado_2022" : 1258.87,
+		"incremento_2021_2022" : 194.28,
+		"floresta_2022" : 32082.16
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 51513.14,
+		"desmatado_2022" : 9378.36,
+		"incremento_2021_2022" : 25.88,
+		"floresta_2022" : 42134.78
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 33594.5,
+		"desmatado_2022" : 12669.19,
+		"incremento_2021_2022" : 116.88,
+		"floresta_2022" : 20925.31
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 57471.84,
+		"desmatado_2022" : 8981.71,
+		"incremento_2021_2022" : 127.51,
+		"floresta_2022" : 48490.13
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 3082.47,
+		"desmatado_2022" : 1020.6,
+		"incremento_2021_2022" : 181.37,
+		"floresta_2022" : 2061.87
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 26115.95,
+		"desmatado_2022" : 12335.77,
+		"incremento_2021_2022" : 155.49,
+		"floresta_2022" : 13780.18
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 25067.35,
+		"desmatado_2022" : 4108.88,
+		"incremento_2021_2022" : 118.59,
+		"floresta_2022" : 20958.47
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 10485.06,
+		"desmatado_2022" : 2257.5,
+		"incremento_2021_2022" : 84.62,
+		"floresta_2022" : 8227.56
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 31998.77,
+		"desmatado_2022" : 1243.76,
+		"incremento_2021_2022" : 138.05,
+		"floresta_2022" : 30755.01
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 47641.51,
+		"desmatado_2022" : 23345.0,
+		"incremento_2021_2022" : 106.62,
+		"floresta_2022" : 24296.51
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 8280.46,
+		"desmatado_2022" : 3498.29,
+		"incremento_2021_2022" : 167.2,
+		"floresta_2022" : 4782.17
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 49039.13,
+		"desmatado_2022" : 3751.43,
+		"incremento_2021_2022" : 133.78,
+		"floresta_2022" : 45287.7
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 21465.03,
+		"desmatado_2022" : 3615.26,
+		"incremento_2021_2022" : 79.89,
+		"floresta_2022" : 17849.77
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 46511.81,
+		"desmatado_2022" : 13680.61,
+		"incremento_2021_2022" : 103.13,
+		"floresta_2022" : 32831.2
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 41165.35,
+		"desmatado_2022" : 21139.43,
+		"incremento_2021_2022" : 33.24,
+		"floresta_2022" : 20025.92
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 24165.64,
+		"desmatado_2022" : 7478.07,
+		"incremento_2021_2022" : 165.12,
+		"floresta_2022" : 16687.57
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 22813.25,
+		"desmatado_2022" : 9637.25,
+		"incremento_2021_2022" : 17.8,
+		"floresta_2022" : 13176.0
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 13068.57,
+		"desmatado_2022" : 1298.01,
+		"incremento_2021_2022" : 189.08,
+		"floresta_2022" : 11770.56
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 48372.96,
+		"desmatado_2022" : 19935.75,
+		"incremento_2021_2022" : 184.2,
+		"floresta_2022" : 28437.21
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 25763.4,
+		"desmatado_2022" : 13517.66,
+		"incremento_2021_2022" : 128.41,
+		"floresta_2022" : 12245.74
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 49809.36,
+		"desmatado_2022" : 20815.06,
+		"incremento_2021_2022" : 115.31,
+		"floresta_2022" : 28994.3
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 37544.72,
+		"desmatado_2022" : 18211.89,
+		"incremento_2021_2022" : 88.47,
+		"floresta_2022" : 19332.83
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 58162.43,
+		"desmatado_2022" : 26186.96,
+		"incremento_2021_2022" : 139.1,
+		"floresta_2022" : 31975.47
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 27686.99,
+		"desmatado_2022" : 6877.3,
+		"incremento_2021_2022" : 126.75,
+		"floresta_2022" : 20809.69
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 17867.69,
+		"desmatado_2022" : 8533.23,
+		"incremento_2021_2022" : 25.48,
+		"floresta_2022" : 9334.46
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 26873.11,
+		"desmatado_2022" : 5522.06,
+		"incremento_2021_2022" : 57.84,
+		"floresta_2022" : 21351.05
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 32374.8,
+		"desmatado_2022" : 6475.51,
+		"incremento_2021_2022" : 28.38,
+		"floresta_2022" : 25899.29
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 18217.85,
+		"desmatado_2022" : 3307.7,
+		"incremento_2021_2022" : 148.54,
+		"floresta_2022" : 14910.15
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 19040.36,
+		"desmatado_2022" : 7766.95,
+		"incremento_2021_2022" : 135.78,
+		"floresta_2022" : 11273.41
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 46095.88,
+		"desmatado_2022" : 541.94,
+		"incremento_2021_2022" : 83.08,
+		"floresta_2022" : 45553.94
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 26941.4,
+		"desmatado_2022" : 12928.31,
+		"incremento_2021_2022" : 192.65,
+		"floresta_2022" : 14013.09
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 48723.81,
+		"desmatado_2022" : 9190.18,
+		"incremento_2021_2022" : 171.01,
+		"floresta_2022" : 39533.63
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 58551.62,
+		"desmatado_2022" : 17186.71,
+		"incremento_2021_2022" : 49.25,
+		"floresta_2022" : 41364.91
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 14194.92,
+		"desmatado_2022" : 1724.02,
+		"incremento_2021_2022" : 98.02,
+		"floresta_2022" : 12470.9
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 37484.71,
+		"desmatado_2022" : 18778.7,
+		"incremento_2021_2022" : 66.82,
+		"floresta_2022" : 18706.01
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 1214.77,
+		"desmatado_2022" : 618.69,
+		"incremento_2021_2022" : 100.39,
+		"floresta_2022" : 596.08
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 15744.31,
+		"desmatado_2022" : 841.4,
+		"incremento_2021_2022" : 175.31,
+		"floresta_2022" : 14902.91
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 37262.11,
+		"desmatado_2022" : 7576.27,
+		"incremento_2021_2022" : 114.69,
+		"floresta_2022" : 29685.84
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 33122.25,
+		"desmatado_2022" : 6521.4,
+		"incremento_2021_2022" : 190.97,
+		"floresta_2022" : 26600.85
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 25456.08,
+		"desmatado_2022" : 7668.42,
+		"incremento_2021_2022" : 177.85,
+		"floresta_2022" : 17787.66
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 23572.13,
+		"desmatado_2022" : 4281.26,
+		"incremento_2021_2022" : 178.81,
+		"floresta_2022" : 19290.87
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 9791.57,
+		"desmatado_2022" : 3880.17,
+		"incremento_2021_2022" : 183.67,
+		"floresta_2022" : 5911.4
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 7018.09,
+		"desmatado_2022" : 1523.27,
+		"incremento_2021_2022" : 176.53,
+		"floresta_2022" : 5494.82
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 5225.91,
+		"desmatado_2022" : 819.8,
+		"incremento_2021_2022" : 113.49,
+		"floresta_2022" : 4406.11
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 40331.67,
+		"desmatado_2022" : 19354.91,
+		"incremento_2021_2022" : 127.64,
+		"floresta_2022" : 20976.76
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 14544.56,
+		"desmatado_2022" : 3622.38,
+		"incremento_2021_2022" : 129.27,
+		"floresta_2022" : 10922.18
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 54139.39,
+		"desmatado_2022" : 29896.96,
+		"incremento_2021_2022" : 136.69,
+		"floresta_2022" : 24242.43
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 45474.96,
+		"desmatado_2022" : 2316.03,
+		"incremento_2021_2022" : 150.38,
+		"floresta_2022" : 43158.93
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 21703.13,
+		"desmatado_2022" : 3090.86,
+		"incremento_2021_2022" : 91.42,
+		"floresta_2022" : 18612.27
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 27540.57,
+		"desmatado_2022" : 3115.73,
+		"incremento_2021_2022" : 66.77,
+		"floresta_2022" : 24424.84
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 38297.76,
+		"desmatado_2022" : 1068.39,
+		"incremento_2021_2022" : 73.9,
+		"floresta_2022" : 37229.37
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 57509.85,
+		"desmatado_2022" : 16586.45,
+		"incremento_2021_2022" : 31.9,
+		"floresta_2022" : 40923.4
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 38597.59,
+		"desmatado_2022" : 10313.9,
+		"incremento_2021_2022" : 47.8,
+		"floresta_2022" : 28283.69
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 35640.34,
+		"desmatado_2022" : 8597.95,
+		"incremento_2021_2022" : 29.17,
+		"floresta_2022" : 27042.39
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 39524.4,
+		"desmatado_2022" : 17869.56,
+		"incremento_2021_2022" : 40.82,
+		"floresta_2022" : 21654.84
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 23895.98,
+		"desmatado_2022" : 4147.87,
+		"incremento_2021_2022" : 107.56,
+		"floresta_2022" : 19748.11
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 7191.25,
+		"desmatado_2022" : 539.61,
+		"incremento_2021_2022" : 181.21,
+		"floresta_2022" : 6651.64
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 3736.71,
+		"desmatado_2022" : 2041.9,
+		"incremento_2021_2022" : 180.51,
+		"floresta_2022" : 1694.81
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 3251.5,
+		"desmatado_2022" : 812.96,
+		"incremento_2021_2022" : 49.51,
+		"floresta_2022" : 2438.54
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 46058.05,
+		"desmatado_2022" : 27096.87,
+		"incremento_2021_2022" : 34.13,
+		"floresta_2022" : 18961.18
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 52983.78,
+		"desmatado_2022" : 10875.42,
+		"incremento_2021_2022" : 138.91,
+		"floresta_2022" : 42108.36
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 7039.65,
+		"desmatado_2022" : 3032.87,
+		"incremento_2021_2022" : 173.06,
+		"floresta_2022" : 4006.78
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 1148.61,
+		"desmatado_2022" : 554.62,
+		"incremento_2021_2022" : 73.83,
+		"floresta_2022" : 593.99
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 40030.52,
+		"desmatado_2022" : 11311.61,
+		"incremento_2021_2022" : 20.55,
+		"floresta_2022" : 28718.91
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 16544.99,
+		"desmatado_2022" : 1248.25,
+		"incremento_2021_2022" : 43.51,
+		"floresta_2022" : 15296.74
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 51861.2,
+		"desmatado_2022" : 23335.26,
+		"incremento_2021_2022" : 132.56,
+		"floresta_2022" : 28525.94
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 29455.74,
+		"desmatado_2022" : 4841.51,
+		"incremento_2021_2022" : 60.33,
+		"floresta_2022" : 24614.23
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 3919.07,
+		"desmatado_2022" : 1467.15,
+		"incremento_2021_2022" : 99.91,
+		"floresta_2022" : 2451.92
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 38909.93,
+		"desmatado_2022" : 21492.81,
+		"incremento_2021_2022" : 188.49,
+		"floresta_2022" : 17417.12
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 25259.16,
+		"desmatado_2022" : 5016.28,
+		"incremento_2021_2022" : 41.84,
+		"floresta_2022" : 20242.88
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 21109.7,
+		"desmatado_2022" : 7763.85,
+		"incremento_2021_2022" : 30.45,
+		"floresta_2022" : 13345.85
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 54338.68,
+		"desmatado_2022" : 19970.43,
+		"incremento_2021_2022" : 40.87,
+		"floresta_2022" : 34368.25
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 5938.31,
+		"desmatado_2022" : 2887.43,
+		"incremento_2021_2022" : 119.46,
+		"floresta_2022" : 3050.88
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 45750.31,
+		"desmatado_2022" : 1275.64,
+		"incremento_2021_2022" : 137.35,
+		"floresta_2022" : 44474.67
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 10545.19,
+		"desmatado_2022" : 2404.24,
+		"incremento_2021_2022" : 62.1,
+		"floresta_2022" : 8140.95
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 9217.05,
+		"desmatado_2022" : 1772.67,
+		"incremento_2021_2022" : 33.26,
+		"floresta_2022" : 7444.38
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 40953.68,
+		"desmatado_2022" : 22677.8,
+		"incremento_2021_2022" : 153.9,
+		"floresta_2022" : 18275.88
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 41434.62,
+		"desmatado_2022" : 10555.81,
+		"incremento_2021_2022" : 106.1,
+		"floresta_2022" : 30878.81
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 36642.9,
+		"desmatado_2022" : 1950.18,
+		"incremento_2021_2022" : 80.95,
+		"floresta_2022" : 34692.72
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 18408.04,
+		"desmatado_2022" : 4785.94,
+		"incremento_2021_2022" : 124.71,
+		"floresta_2022" : 13622.1
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 24767.65,
+		"desmatado_2022" : 9615.88,
+		"incremento_2021_2022" : 59.51,
+		"floresta_2022" : 15151.77
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 1098.9,
+		"desmatado_2022" : 591.76,
+		"incremento_2021_2022" : 142.49,
+		"floresta_2022" : 507.14
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 46205.68,
+		"desmatado_2022" : 20957.75,
+		"incremento_2021_2022" : 144.88,
+		"floresta_2022" : 25247.93
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 45414.9,
+		"desmatado_2022" : 21752.53,
+		"incremento_2021_2022" : 124.39,
+		"floresta_2022" : 23662.37
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 4172.12,
+		"desmatado_2022" : 2250.79,
+		"incremento_2021_2022" : 28.75,
+		"floresta_2022" : 1921.33
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 21046.57,
+		"desmatado_2022" : 5915.28,
+		"incremento_2021_2022" : 158.75,
+		"floresta_2022" : 15131.29
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 44986.53,
+		"desmatado_2022" : 16347.79,
+		"incremento_2021_2022" : 67.61,
+		"floresta_2022" : 28638.74
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 11492.92,
+		"desmatado_2022" : 5839.09,
+		"incremento_2021_2022" : 108.02,
+		"floresta_2022" : 5653.83
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 52360.46,
+		"desmatado_2022" : 30769.91,
+		"incremento_2021_2022" : 71.59,
+		"floresta_2022" : 21590.55
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 29695.19,
+		"desmatado_2022" : 6617.66,
+		"incremento_2021_2022" : 169.06,
+		"floresta_2022" : 23077.53
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 14282.77,
+		"desmatado_2022" : 4000.14,
+		"incremento_2021_2022" : 119.27,
+		"floresta_2022" : 10282.63
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 10092.07,
+		"desmatado_2022" : 4156.97,
+		"incremento_2021_2022" : 136.43,
+		"floresta_2022" : 5935.1
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 37065.51,
+		"desmatado_2022" : 20643.02,
+		"incremento_2021_2022" : 175.69,
+		"floresta_2022" : 16422.49
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 31248.39,
+		"desmatado_2022" : 3235.74,
+		"incremento_2021_2022" : 155.66,
+		"floresta_2022" : 28012.65
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 55471.73,
+		"desmatado_2022" : 24928.29,
+		"incremento_2021_2022" : 163.41,
+		"floresta_2022" : 30543.44
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 31344.63,
+		"desmatado_2022" : 7155.07,
+		"incremento_2021_2022" : 88.03,
+		"floresta_2022" : 24189.56
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 33735.56,
+		"desmatado_2022" : 13228.21,
+		"incremento_2021_2022" : 194.96,
+		"floresta_2022" : 20507.35
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 34403.21,
+		"desmatado_2022" : 20484.82,
+		"incremento_2021_2022" : 115.87,
+		"floresta_2022" : 13918.39
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 46102.04,
+		"desmatado_2022" : 20210.48,
+		"incremento_2021_2022" : 135.02,
+		"floresta_2022" : 25891.56
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 29044.77,
+		"desmatado_2022" : 6984.87,
+		"incremento_2021_2022" : 21.6,
+		"floresta_2022" : 22059.9
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 55061.82,
+		"desmatado_2022" : 1157.28,
+		"incremento_2021_2022" : 52.63,
+		"floresta_2022" : 53904.54
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 31163.97,
+		"desmatado_2022" : 17140.51,
+		"incremento_2021_2022" : 140.16,
+		"floresta_2022" : 14023.46
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 12392.05,
+		"desmatado_2022" : 3285.91,
+		"incremento_2021_2022" : 136.48,
+		"floresta_2022" : 9106.14
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 34203.62,
+		"desmatado_2022" : 13568.27,
+		"incremento_2021_2022" : 190.21,
+		"floresta_2022" : 20635.35
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 1296.07,
+		"desmatado_2022" : 757.49,
+		"incremento_2021_2022" : 192.91,
+		"floresta_2022" : 538.58
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 2158.75,
+		"desmatado_2022" : 912.55,
+		"incremento_2021_2022" : 61.94,
+		"floresta_2022" : 1246.2
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 34676.6,
+		"desmatado_2022" : 6037.14,
+		"incremento_2021_2022" : 121.53,
+		"floresta_2022" : 28639.46
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 33606.01,
+		"desmatado_2022" : 1717.32,
+		"incremento_2021_2022" : 183.14,
+		"floresta_2022" : 31888.69
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 49049.67,
+		"desmatado_2022" : 7716.42,
+		"incremento_2021_2022" : 155.5,
+		"floresta_2022" : 41333.25
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 50026.52,
+		"desmatado_2022" : 15599.13,
+		"incremento_2021_2022" : 76.88,
+		"floresta_2022" : 34427.39
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 22155.16,
+		"desmatado_2022" : 9512.8,
+		"incremento_2021_2022" : 173.16,
+		"floresta_2022" : 12642.36
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 19328.05,
+		"desmatado_2022" : 8584.47,
+		"incremento_2021_2022" : 145.6,
+		"floresta_2022" : 10743.58
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 13425.67,
+		"desmatado_2022" : 3722.39,
+		"incremento_2021_2022" : 190.39,
+		"floresta_2022" : 9703.28
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 50042.82,
+		"desmatado_2022" : 16774.78,
+		"incremento_2021_2022" : 109.85,
+		"floresta_2022" : 33268.04
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 44051.53,
+		"desmatado_2022" : 8078.25,
+		"incremento_2021_2022" : 87.82,
+		"floresta_2022" : 35973.28
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 32364.58,
+		"desmatado_2022" : 5623.0,
+		"incremento_2021_2022" : 75.0,
+		"floresta_2022" : 26741.58
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 57171.67,
+		"desmatado_2022" : 15496.19,
+		"incremento_2021_2022" : 108.36,
+		"floresta_2022" : 41675.48
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 29468.12,
+		"desmatado_2022" : 15829.06,
+		"incremento_2021_2022" : 154.53,
+		"floresta_2022" : 13639.06
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 27257.14,
+		"desmatado_2022" : 11599.94,
+		"incremento_2021_2022" : 117.19,
+		"floresta_2022" : 15657.2
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 27635.74,
+		"desmatado_2022" : 8291.27,
+		"incremento_2021_2022" : 190.58,
+		"floresta_2022" : 19344.47
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 27611.67,
+		"desmatado_2022" : 2465.02,
+		"incremento_2021_2022" : 11.05,
+		"floresta_2022" : 25146.65
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 56721.63,
+		"desmatado_2022" : 25715.55,
+		"incremento_2021_2022" : 56.01,
+		"floresta_2022" : 31006.08
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 25376.01,
+		"desmatado_2022" : 10100.35,
+		"incremento_2021_2022" : 170.3,
+		"floresta_2022" : 15275.66
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 37279.08,
+		"desmatado_2022" : 17278.22,
+		"incremento_2021_2022" : 23.69,
+		"floresta_2022" : 20000.86
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 57432.45,
+		"desmatado_2022" : 20968.72,
+		"incremento_2021_2022" : 54.29,
+		"floresta_2022" : 36463.73
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 8467.31,
+		"desmatado_2022" : 3337.11,
+		"incremento_2021_2022" : 157.89,
+		"floresta_2022" : 5130.2
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 17206.77,
+		"desmatado_2022" : 9420.68,
+		"incremento_2021_2022" : 145.73,
+		"floresta_2022" : 7786.09
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 41709.8,
+		"desmatado_2022" : 7583.58,
+		"incremento_2021_2022" : 63.28,
+		"floresta_2022" : 34126.22
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 24700.88,
+		"desmatado_2022" : 6393.42,
+		"incremento_2021_2022" : 33.05,
+		"floresta_2022" : 18307.46
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 17571.93,
+		"desmatado_2022" : 9541.06,
+		"incremento_2021_2022" : 88.18,
+		"floresta_2022" : 8030.87
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 9961.25,
+		"desmatado_2022" : 1975.21,
+		"incremento_2021_2022" : 37.24,
+		"floresta_2022" : 7986.04
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 36630.06,
+		"desmatado_2022" : 18913.91,
+		"incremento_2021_2022" : 109.51,
+		"floresta_2022" : 17716.15
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 21640.84,
+		"desmatado_2022" : 11622.91,
+		"incremento_2021_2022" : 50.23,
+		"floresta_2022" : 10017.93
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 15667.78,
+		"desmatado_2022" : 5411.53,
+		"incremento_2021_2022" : 15.11,
+		"floresta_2022" : 10256.25
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 23734.38,
+		"desmatado_2022" : 10462.29,
+		"incremento_2021_2022" : 132.63,
+		"floresta_2022" : 13272.09
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 39270.54,
+		"desmatado_2022" : 15455.69,
+		"incremento_2021_2022" : 57.28,
+		"floresta_2022" : 23814.85
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 11111.1,
+		"desmatado_2022" : 1351.03,
+		"incremento_2021_2022" : 81.34,
+		"floresta_2022" : 9760.07
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 4610.91,
+		"desmatado_2022" : 1315.67,
+		"incremento_2021_2022" : 34.99,
+		"floresta_2022" : 3295.24
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 41364.79,
+		"desmatado_2022" : 21932.32,
+		"incremento_2021_2022" : 120.83,
+		"floresta_2022" : 19432.47
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 32183.55,
+		"desmatado_2022" : 17909.88,
+		"incremento_2021_2022" : 97.93,
+		"floresta_2022" : 14273.67
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 56712.59,
+		"desmatado_2022" : 5701.2,
+		"incremento_2021_2022" : 132.43,
+		"floresta_2022" : 51011.39
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 51060.42,
+		"desmatado_2022" : 20267.19,
+		"incremento_2021_2022" : 119.48,
+		"floresta_2022" : 30793.23
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 48771.93,
+		"desmatado_2022" : 26818.36,
+		"incremento_2021_2022" : 126.59,
+		"floresta_2022" : 21953.57
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 2855.93,
+		"desmatado_2022" : 1378.77,
+		"incremento_2021_2022" : 176.27,
+		"floresta_2022" : 1477.16
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 9262.39,
+		"desmatado_2022" : 5427.74,
+		"incremento_2021_2022" : 143.96,
+		"floresta_2022" : 3834.65
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 3385.95,
+		"desmatado_2022" : 1936.89,
+		"incremento_2021_2022" : 157.85,
+		"floresta_2022" : 1449.06
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 31888.34,
+		"desmatado_2022" : 13088.21,
+		"incremento_2021_2022" : 49.48,
+		"floresta_2022" : 18800.13
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 57043.17,
+		"desmatado_2022" : 26141.76,
+		"incremento_2021_2022" : 50.04,
+		"floresta_2022" : 30901.41
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 43982.34,
+		"desmatado_2022" : 12151.27,
+		"incremento_2021_2022" : 143.17,
+		"floresta_2022" : 31831.07
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 35022.04,
+		"desmatado_2022" : 20444.87,
+		"incremento_2021_2022" : 114.88,
+		"floresta_2022" : 14577.17
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 31541.5,
+		"desmatado_2022" : 13490.47,
+		"incremento_2021_2022" : 180.3,
+		"floresta_2022" : 18051.03
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 58915.77,
+		"desmatado_2022" : 19592.01,
+		"incremento_2021_2022" : 91.39,
+		"floresta_2022" : 39323.76
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 54134.19,
+		"desmatado_2022" : 25704.15,
+		"incremento_2021_2022" : 104.46,
+		"floresta_2022" : 28430.04
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 41868.04,
+		"desmatado_2022" : 9839.6,
+		"incremento_2021_2022" : 119.0,
+		"floresta_2022" : 32028.44
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 50281.73,
+		"desmatado_2022" : 8477.78,
+		"incremento_2021_2022" : 113.17,
+		"floresta_2022" : 41803.95
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 57637.85,
+		"desmatado_2022" : 3767.98,
+		"incremento_2021_2022" : 99.92,
+		"floresta_2022" : 53869.87
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 9186.08,
+		"desmatado_2022" : 2574.54,
+		"incremento_2021_2022" : 159.47,
+		"floresta_2022" : 6611.54
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 14205.74,
+		"desmatado_2022" : 3628.68,
+		"incremento_2021_2022" : 81.04,
+		"floresta_2022" : 10577.06
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 41832.83,
+		"desmatado_2022" : 13876.79,
+		"incremento_2021_2022" : 94.75,
+		"floresta_2022" : 27956.04
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 15471.98,
+		"desmatado_2022" : 5417.77,
+		"incremento_2021_2022" : 21.9,
+		"floresta_2022" : 10054.21
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 46568.34,
+		"desmatado_2022" : 4416.25,
+		"incremento_2021_2022" : 88.12,
+		"floresta_2022" : 42152.09
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 42221.54,
+		"desmatado_2022" : 3635.93,
+		"incremento_2021_2022" : 64.68,
+		"floresta_2022" : 38585.61
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 5993.82,
+		"desmatado_2022" : 2188.27,
+		"incremento_2021_2022" : 20.1,
+		"floresta_2022" : 3805.55
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 47353.26,
+		"desmatado_2022" : 19537.87,
+		"incremento_2021_2022" : 106.89,
+		"floresta_2022" : 27815.39
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 16649.74,
+		"desmatado_2022" : 1462.1,
+		"incremento_2021_2022" : 119.03,
+		"floresta_2022" : 15187.64
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 2556.4,
+		"desmatado_2022" : 508.48,
+		"incremento_2021_2022" : 83.29,
+		"floresta_2022" : 2047.92
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 56385.41,
+		"desmatado_2022" : 21513.39,
+		"incremento_2021_2022" : 140.94,
+		"floresta_2022" : 34872.02
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 41458.06,
+		"desmatado_2022" : 14824.2,
+		"incremento_2021_2022" : 131.47,
+		"floresta_2022" : 26633.86
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 6068.48,
+		"desmatado_2022" : 1780.78,
+		"incremento_2021_2022" : 139.21,
+		"floresta_2022" : 4287.7
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 5776.65,
+		"desmatado_2022" : 1079.18,
+		"incremento_2021_2022" : 169.03,
+		"floresta_2022" : 4697.47
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 46648.61,
+		"desmatado_2022" : 13367.39,
+		"incremento_2021_2022" : 10.53,
+		"floresta_2022" : 33281.22
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 28456.8,
+		"desmatado_2022" : 9595.12,
+		"incremento_2021_2022" : 182.42,
+		"floresta_2022" : 18861.68
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 38439.99,
+		"desmatado_2022" : 12498.35,
+		"incremento_2021_2022" : 85.89,
+		"floresta_2022" : 25941.64
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 7459.59,
+		"desmatado_2022" : 3395.59,
+		"incremento_2021_2022" : 91.04,
+		"floresta_2022" : 4064.0
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 20566.23,
+		"desmatado_2022" : 7747.13,
+		"incremento_2021_2022" : 30.33,
+		"floresta_2022" : 12819.1
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 32247.08,
+		"desmatado_2022" : 13947.49,
+		"incremento_2021_2022" : 161.25,
+		"floresta_2022" : 18299.59
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 20932.95,
+		"desmatado_2022" : 5971.01,
+		"incremento_2021_2022" : 26.9,
+		"floresta_2022" : 14961.94
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 27219.58,
+		"desmatado_2022" : 10427.05,
+		"incremento_2021_2022" : 84.92,
+		"floresta_2022" : 16792.53
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 7228.08,
+		"desmatado_2022" : 1364.94,
+		"incremento_2021_2022" : 103.21,
+		"floresta_2022" : 5863.14
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 23264.57,
+		"desmatado_2022" : 13702.53,
+		"incremento_2021_2022" : 71.41,
+		"floresta_2022" : 9562.04
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 39576.85,
+		"desmatado_2022" : 2686.02,
+		"incremento_2021_2022" : 24.42,
+		"floresta_2022" : 36890.83
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 34955.24,
+		"desmatado_2022" : 16856.02,
+		"incremento_2021_2022" : 107.13,
+		"floresta_2022" : 18099.22
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 26295.56,
+		"desmatado_2022" : 9432.91,
+		"incremento_2021_2022" : 110.04,
+		"floresta_2022" : 16862.65
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 14065.34,
+		"desmatado_2022" : 6923.96,
+		"incremento_2021_2022" : 179.17,
+		"floresta_2022" : 7141.38
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 6187.21,
+		"desmatado_2022" : 1113.81,
+		"incremento_2021_2022" : 164.62,
+		"floresta_2022" : 5073.4
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 28215.73,
+		"desmatado_2022" : 16164.9,
+		"incremento_2021_2022" : 93.5,
+		"floresta_2022" : 12050.83
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 36156.6,
+		"desmatado_2022" : 2906.22,
+		"incremento_2021_2022" : 86.37,
+		"floresta_2022" : 33250.38
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 49223.03,
+		"desmatado_2022" : 27829.72,
+		"incremento_2021_2022" : 122.33,
+		"floresta_2022" : 21393.31
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 58777.16,
+		"desmatado_2022" : 32315.51,
+		"incremento_2021_2022" : 104.53,
+		"floresta_2022" : 26461.65
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 13928.21,
+		"desmatado_2022" : 3788.64,
+		"incremento_2021_2022" : 60.08,
+		"floresta_2022" : 10139.57
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 42043.6,
+		"desmatado_2022" : 15871.86,
+		"incremento_2021_2022" : 40.43,
+		"floresta_2022" : 26171.74
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 40513.51,
+		"desmatado_2022" : 11754.32,
+		"incremento_2021_2022" : 113.07,
+		"floresta_2022" : 28759.19
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 31484.14,
+		"desmatado_2022" : 8493.4,
+		"incremento_2021_2022" : 20.45,
+		"floresta_2022" : 22990.74
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 14513.79,
+		"desmatado_2022" : 7592.34,
+		"incremento_2021_2022" : 92.8,
+		"floresta_2022" : 6921.45
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 46537.56,
+		"desmatado_2022" : 9629.17,
+		"incremento_2021_2022" : 79.23,
+		"floresta_2022" : 36908.39
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 3664.05,
+		"desmatado_2022" : 2098.04,
+		"incremento_2021_2022" : 29.12,
+		"floresta_2022" : 1566.01
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 7685.39,
+		"desmatado_2022" : 3165.27,
+		"incremento_2021_2022" : 85.52,
+		"floresta_2022" : 4520.12
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 58223.35,
+		"desmatado_2022" : 29315.78,
+		"incremento_2021_2022" : 98.61,
+		"floresta_2022" : 28907.57
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 38105.83,
+		"desmatado_2022" : 7573.51,
+		"incremento_2021_2022" : 97.33,
+		"floresta_2022" : 30532.32
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 56114.56,
+		"desmatado_2022" : 32293.37,
+		"incremento_2021_2022" : 47.5,
+		"floresta_2022" : 23821.19
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 58577.47,
+		"desmatado_2022" : 20265.94,
+		"incremento_2021_2022" : 100.7,
+		"floresta_2022" : 38311.53
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 51405.36,
+		"desmatado_2022" : 4748.43,
+		"incremento_2021_2022" : 117.67,
+		"floresta_2022" : 46656.93
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 1658.69,
+		"desmatado_2022" : 513.06,
+		"incremento_2021_2022" : 128.55,
+		"floresta_2022" : 1145.63
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 39538.22,
+		"desmatado_2022" : 20580.11,
+		"incremento_2021_2022" : 50.67,
+		"floresta_2022" : 18958.11
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 54028.52,
+		"desmatado_2022" : 20038.44,
+		"incremento_2021_2022" : 190.28,
+		"floresta_2022" : 33990.08
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 9256.72,
+		"desmatado_2022" : 3137.72,
+		"incremento_2021_2022" : 184.41,
+		"floresta_2022" : 6119.0
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 3734.91,
+		"desmatado_2022" : 2185.27,
+		"incremento_2021_2022" : 141.46,
+		"floresta_2022" : 1549.64
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 35313.12,
+		"desmatado_2022" : 20013.48,
+		"incremento_2021_2022" : 73.68,
+		"floresta_2022" : 15299.64
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 54742.92,
+		"desmatado_2022" : 4185.35,
+		"incremento_2021_2022" : 49.43,
+		"floresta_2022" : 50557.57
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 26026.79,
+		"desmatado_2022" : 7370.14,
+		"incremento_2021_2022" : 80.45,
+		"floresta_2022" : 18656.65
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 16244.43,
+		"desmatado_2022" : 3095.23,
+		"incremento_2021_2022" : 51.04,
+		"floresta_2022" : 13149.2
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 39453.74,
+		"desmatado_2022" : 13451.21,
+		"incremento_2021_2022" : 17.48,
+		"floresta_2022" : 26002.53
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 38078.14,
+		"desmatado_2022" : 8823.28,
+		"incremento_2021_2022" : 140.22,
+		"floresta_2022" : 29254.86
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 40911.52,
+		"desmatado_2022" : 13685.05,
+		"incremento_2021_2022" : 44.44,
+		"floresta_2022" : 27226.47
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 29990.38,
+		"desmatado_2022" : 2364.49,
+		"incremento_2021_2022" : 118.81,
+		"floresta_2022" : 27625.89
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 5631.34,
+		"desmatado_2022" : 1765.65,
+		"incremento_2021_2022" : 79.03,
+		"floresta_2022" : 3865.69
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 54263.32,
+		"desmatado_2022" : 23915.13,
+		"incremento_2021_2022" : 24.95,
+		"floresta_2022" : 30348.19
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 33314.53,
+		"desmatado_2022" : 3928.6,
+		"incremento_2021_2022" : 31.84,
+		"floresta_2022" : 29385.93
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 45452.89,
+		"desmatado_2022" : 8693.35,
+		"incremento_2021_2022" : 110.39,
+		"floresta_2022" : 36759.54
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 32739.39,
+		"desmatado_2022" : 9470.32,
+		"incremento_2021_2022" : 169.34,
+		"floresta_2022" : 23269.07
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 38758.71,
+		"desmatado_2022" : 21472.42,
+		"incremento_2021_2022" : 183.37,
+		"floresta_2022" : 17286.29
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 25063.41,
+		"desmatado_2022" : 13884.13,
+		"incremento_2021_2022" : 87.69,
+		"floresta_2022" : 11179.28
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 17249.96,
+		"desmatado_2022" : 2665.28,
+		"incremento_2021_2022" : 194.4,
+		"floresta_2022" : 14584.68
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 52053.36,
+		"desmatado_2022" : 16356.6,
+		"incremento_2021_2022" : 130.02,
+		"floresta_2022" : 35696.76
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 15319.17,
+		"desmatado_2022" : 897.56,
+		"incremento_2021_2022" : 15.74,
+		"floresta_2022" : 14421.61
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 13322.09,
+		"desmatado_2022" : 1698.64,
+		"incremento_2021_2022" : 59.3,
+		"floresta_2022" : 11623.45
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 12460.98,
+		"desmatado_2022" : 2812.49,
+		"incremento_2021_2022" : 158.85,
+		"floresta_2022" : 9648.49
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 2238.02,
+		"desmatado_2022" : 647.62,
+		"incremento_2021_2022" : 69.43,
+		"floresta_2022" : 1590.4
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 51084.25,
+		"desmatado_2022" : 9796.72,
+		"incremento_2021_2022" : 141.45,
+		"floresta_2022" : 41287.53
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 15109.06,
+		"desmatado_2022" : 6814.25,
+		"incremento_2021_2022" : 161.33,
+		"floresta_2022" : 8294.81
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 50300.64,
+		"desmatado_2022" : 20351.73,
+		"incremento_2021_2022" : 13.58,
+		"floresta_2022" : 29948.91
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 5745.04,
+		"desmatado_2022" : 1736.9,
+		"incremento_2021_2022" : 50.23,
+		"floresta_2022" : 4008.14
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 55878.27,
+		"desmatado_2022" : 11755.09,
+		"incremento_2021_2022" : 42.49,
+		"floresta_2022" : 44123.18
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 17527.64,
+		"desmatado_2022" : 3647.75,
+		"incremento_2021_2022" : 139.22,
+		"floresta_2022" : 13879.89
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 19523.02,
+		"desmatado_2022" : 1589.8,
+		"incremento_2021_2022" : 152.0,
+		"floresta_2022" : 17933.22
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 55907.43,
+		"desmatado_2022" : 30350.76,
+		"incremento_2021_2022" : 86.55,
+		"floresta_2022" : 25556.67
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 42529.22,
+		"desmatado_2022" : 19388.15,
+		"incremento_2021_2022" : 171.41,
+		"floresta_2022" : 23141.07
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 10076.04,
+		"desmatado_2022" : 2532.31,
+		"incremento_2021_2022" : 134.08,
+		"floresta_2022" : 7543.73
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 20599.6,
+		"desmatado_2022" : 6863.93,
+		"incremento_2021_2022" : 146.16,
+		"floresta_2022" : 13735.67
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 54585.62,
+		"desmatado_2022" : 24154.87,
+		"incremento_2021_2022" : 37.64,
+		"floresta_2022" : 30430.75
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 56921.02,
+		"desmatado_2022" : 23858.87,
+		"incremento_2021_2022" : 113.63,
+		"floresta_2022" : 33062.15
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 31903.89,
+		"desmatado_2022" : 1769.36,
+		"incremento_2021_2022" : 47.32,
+		"floresta_2022" : 30134.53
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 44446.56,
+		"desmatado_2022" : 25144.0,
+		"incremento_2021_2022" : 51.26,
+		"floresta_2022" : 19302.56
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 21265.61,
+		"desmatado_2022" : 12097.68,
+		"incremento_2021_2022" : 31.37,
+		"floresta_2022" : 9167.93
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 7280.37,
+		"desmatado_2022" : 3735.14,
+		"incremento_2021_2022" : 10.15,
+		"floresta_2022" : 3545.23
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 53734.72,
+		"desmatado_2022" : 21529.85,
+		"incremento_2021_2022" : 173.16,
+		"floresta_2022" : 32204.87
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 15439.67,
+		"desmatado_2022" : 5058.06,
+		"incremento_2021_2022" : 163.01,
+		"floresta_2022" : 10381.61
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 2131.61,
+		"desmatado_2022" : 1138.77,
+		"incremento_2021_2022" : 44.64,
+		"floresta_2022" : 992.84
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 42790.02,
+		"desmatado_2022" : 22421.15,
+		"incremento_2021_2022" : 189.14,
+		"floresta_2022" : 20368.87
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 43297.64,
+		"desmatado_2022" : 12271.27,
+		"incremento_2021_2022" : 98.81,
+		"floresta_2022" : 31026.37
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 6559.46,
+		"desmatado_2022" : 2034.46,
+		"incremento_2021_2022" : 133.76,
+		"floresta_2022" : 4525.0
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 32358.13,
+		"desmatado_2022" : 17436.34,
+		"incremento_2021_2022" : 141.65,
+		"floresta_2022" : 14921.79
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 38639.36,
+		"desmatado_2022" : 13099.12,
+		"incremento_2021_2022" : 28.58,
+		"floresta_2022" : 25540.24
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 33175.67,
+		"desmatado_2022" : 19644.85,
+		"incremento_2021_2022" : 83.55,
+		"floresta_2022" : 13530.82
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 58092.48,
+		"desmatado_2022" : 8135.34,
+		"incremento_2021_2022" : 46.89,
+		"floresta_2022" : 49957.14
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 11486.84,
+		"desmatado_2022" : 3126.07,
+		"incremento_2021_2022" : 49.18,
+		"floresta_2022" : 8360.77
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 1382.1,
+		"desmatado_2022" : 564.46,
+		"incremento_2021_2022" : 136.81,
+		"floresta_2022" : 817.64
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 22201.26,
+		"desmatado_2022" : 11220.23,
+		"incremento_2021_2022" : 96.96,
+		"floresta_2022" : 10981.03
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 59083.01,
+		"desmatado_2022" : 25496.17,
+		"incremento_2021_2022" : 168.99,
+		"floresta_2022" : 33586.84
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 16541.86,
+		"desmatado_2022" : 3413.49,
+		"incremento_2021_2022" : 140.45,
+		"floresta_2022" : 13128.37
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 55150.77,
+		"desmatado_2022" : 27111.23,
+		"incremento_2021_2022" : 168.91,
+		"floresta_2022" : 28039.54
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 59616.57,
+		"desmatado_2022" : 2348.37,
+		"incremento_2021_2022" : 194.88,
+		"floresta_2022" : 57268.2
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 53186.31,
+		"desmatado_2022" : 14266.63,
+		"incremento_2021_2022" : 17.33,
+		"floresta_2022" : 38919.68
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 20362.24,
+		"desmatado_2022" : 6186.28,
+		"incremento_2021_2022" : 74.14,
+		"floresta_2022" : 14175.96
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 46473.69,
+		"desmatado_2022" : 19199.84,
+		"incremento_2021_2022" : 25.53,
+		"floresta_2022" : 27273.85
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 5447.71,
+		"desmatado_2022" : 1783.49,
+		"incremento_2021_2022" : 116.01,
+		"floresta_2022" : 3664.22
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 50316.08,
+		"desmatado_2022" : 1663.4,
+		"incremento_2021_2022" : 171.19,
+		"floresta_2022" : 48652.68
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 4007.52,
+		"desmatado_2022" : 554.85,
+		"incremento_2021_2022" : 156.73,
+		"floresta_2022" : 3452.67
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 51677.13,
+		"desmatado_2022" : 7812.77,
+		"incremento_2021_2022" : 121.09,
+		"floresta_2022" : 43864.36
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 56124.05,
+		"desmatado_2022" : 2358.37,
+		"incremento_2021_2022" : 47.26,
+		"floresta_2022" : 53765.68
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 22506.97,
+		"desmatado_2022" : 11650.23,
+		"incremento_2021_2022" : 164.65,
+		"floresta_2022" : 10856.74
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 55960.34,
+		"desmatado_2022" : 27268.91,
+		"incremento_2021_2022" : 81.89,
+		"floresta_2022" : 28691.43
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 19702.96,
+		"desmatado_2022" : 11409.38,
+		"incremento_2021_2022" : 165.06,
+		"floresta_2022" : 8293.58
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 32353.73,
+		"desmatado_2022" : 6507.68,
+		"incremento_2021_2022" : 126.86,
+		"floresta_2022" : 25846.05
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 51773.65,
+		"desmatado_2022" : 8354.56,
+		"incremento_2021_2022" : 188.76,
+		"floresta_2022" : 43419.09
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 53299.99,
+		"desmatado_2022" : 29037.84,
+		"incremento_2021_2022" : 144.49,
+		"floresta_2022" : 24262.15
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 18619.44,
+		"desmatado_2022" : 3650.41,
+		"incremento_2021_2022" : 31.42,
+		"floresta_2022" : 14969.03
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 27751.38,
+		"desmatado_2022" : 2641.53,
+		"incremento_2021_2022" : 34.19,
+		"floresta_2022" : 25109.85
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 22534.57,
+		"desmatado_2022" : 11041.94,
+		"incremento_2021_2022" : 81.49,
+		"floresta_2022" : 11492.63
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 39094.35,
+		"desmatado_2022" : 19687.04,
+		"incremento_2021_2022" : 39.94,
+		"floresta_2022" : 19407.31
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 13341.35,
+		"desmatado_2022" : 4042.39,
+		"incremento_2021_2022" : 27.07,
+		"floresta_2022" : 9298.96
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 51865.82,
+		"desmatado_2022" : 11733.89,
+		"incremento_2021_2022" : 186.0,
+		"floresta_2022" : 40131.93
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 34937.12,
+		"desmatado_2022" : 6244.27,
+		"incremento_2021_2022" : 123.99,
+		"floresta_2022" : 28692.85
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 32164.77,
+		"desmatado_2022" : 15871.13,
+		"incremento_2021_2022" : 48.02,
+		"floresta_2022" : 16293.64
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 22377.08,
+		"desmatado_2022" : 12090.25,
+		"incremento_2021_2022" : 114.73,
+		"floresta_2022" : 10286.83
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 40754.1,
+		"desmatado_2022" : 24161.55,
+		"incremento_2021_2022" : 197.3,
+		"floresta_2022" : 16592.55
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 44188.02,
+		"desmatado_2022" : 22515.27,
+		"incremento_2021_2022" : 128.04,
+		"floresta_2022" : 21672.75
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 36777.89,
+		"desmatado_2022" : 10052.12,
+		"incremento_2021_2022" : 119.6,
+		"floresta_2022" : 26725.77
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 8222.38,
+		"desmatado_2022" : 4442.29,
+		"incremento_2021_2022" : 36.87,
+		"floresta_2022" : 3780.09
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 38661.85,
+		"desmatado_2022" : 22202.13,
+		"incremento_2021_2022" : 122.33,
+		"floresta_2022" : 16459.72
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 55062.45,
+		"desmatado_2022" : 12020.46,
+		"incremento_2021_2022" : 63.69,
+		"floresta_2022" : 43041.99
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 24546.54,
+		"desmatado_2022" : 13770.61,
+		"incremento_2021_2022" : 70.1,
+		"floresta_2022" : 10775.93
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 54433.99,
+		"desmatado_2022" : 6594.03,
+		"incremento_2021_2022" : 21.39,
+		"floresta_2022" : 47839.96
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 14170.77,
+		"desmatado_2022" : 3821.74,
+		"incremento_2021_2022" : 122.31,
+		"floresta_2022" : 10349.03
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 53460.71,
+		"desmatado_2022" : 17447.48,
+		"incremento_2021_2022" : 152.75,
+		"floresta_2022" : 36013.23
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 18941.79,
+		"desmatado_2022" : 3444.28,
+		"incremento_2021_2022" : 108.02,
+		"floresta_2022" : 15497.51
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 40849.69,
+		"desmatado_2022" : 23315.5,
+		"incremento_2021_2022" : 111.3,
+		"floresta_2022" : 17534.19
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 37223.76,
+		"desmatado_2022" : 19594.9,
+		"incremento_2021_2022" : 122.32,
+		"floresta_2022" : 17628.86
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 19099.78,
+		"desmatado_2022" : 9996.28,
+		"incremento_2021_2022" : 76.98,
+		"floresta_2022" : 9103.5
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 4353.2,
+		"desmatado_2022" : 983.85,
+		"incremento_2021_2022" : 118.01,
+		"floresta_2022" : 3369.35
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 27850.74,
+		"desmatado_2022" : 1077.36,
+		"incremento_2021_2022" : 33.68,
+		"floresta_2022" : 26773.38
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 19071.36,
+		"desmatado_2022" : 9176.63,
+		"incremento_2021_2022" : 138.7,
+		"floresta_2022" : 9894.73
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 26101.4,
+		"desmatado_2022" : 7544.42,
+		"incremento_2021_2022" : 143.52,
+		"floresta_2022" : 18556.98
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 9576.36,
+		"desmatado_2022" : 3213.08,
+		"incremento_2021_2022" : 146.24,
+		"floresta_2022" : 6363.28
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 34429.95,
+		"desmatado_2022" : 7842.64,
+		"incremento_2021_2022" : 66.6,
+		"floresta_2022" : 26587.31
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 21410.4,
+		"desmatado_2022" : 11112.15,
+		"incremento_2021_2022" : 101.42,
+		"floresta_2022" : 10298.25
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 21168.36,
+		"desmatado_2022" : 2025.01,
+		"incremento_2021_2022" : 157.26,
+		"floresta_2022" : 19143.35
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 48794.05,
+		"desmatado_2022" : 13886.02,
+		"incremento_2021_2022" : 193.8,
+		"floresta_2022" : 34908.03
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 6390.48,
+		"desmatado_2022" : 1469.72,
+		"incremento_2021_2022" : 195.07,
+		"floresta_2022" : 4920.76
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 41594.04,
+		"desmatado_2022" : 4537.11,
+		"incremento_2021_2022" : 123.9,
+		"floresta_2022" : 37056.93
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 52824.67,
+		"desmatado_2022" : 26387.6,
+		"incremento_2021_2022" : 30.39,
+		"floresta_2022" : 26437.07
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 26269.74,
+		"desmatado_2022" : 10447.57,
+		"incremento_2021_2022" : 54.43,
+		"floresta_2022" : 15822.17
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 59139.04,
+		"desmatado_2022" : 31369.88,
+		"incremento_2021_2022" : 19.8,
+		"floresta_2022" : 27769.16
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 54469.08,
+		"desmatado_2022" : 28391.77,
+		"incremento_2021_2022" : 38.57,
+		"floresta_2022" : 26077.31
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 44522.65,
+		"desmatado_2022" : 19851.04,
+		"incremento_2021_2022" : 48.44,
+		"floresta_2022" : 24671.61
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 31054.53,
+		"desmatado_2022" : 993.14,
+		"incremento_2021_2022" : 19.28,
+		"floresta_2022" : 30061.39
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 54517.1,
+		"desmatado_2022" : 563.12,
+		"incremento_2021_2022" : 154.93,
+		"floresta_2022" : 53953.98
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 22325.33,
+		"desmatado_2022" : 10045.84,
+		"incremento_2021_2022" : 147.09,
+		"floresta_2022" : 12279.49
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 41744.82,
+		"desmatado_2022" : 8954.73,
+		"incremento_2021_2022" : 117.39,
+		"floresta_2022" : 32790.09
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 32980.23,
+		"desmatado_2022" : 19494.55,
+		"incremento_2021_2022" : 111.04,
+		"floresta_2022" : 13485.68
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 27710.32,
+		"desmatado_2022" : 4762.16,
+		"incremento_2021_2022" : 93.81,
+		"floresta_2022" : 22948.16
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 33843.07,
+		"desmatado_2022" : 10753.65,
+		"incremento_2021_2022" : 119.77,
+		"floresta_2022" : 23089.42
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 35967.08,
+		"desmatado_2022" : 5775.76,
+		"incremento_2021_2022" : 163.92,
+		"floresta_2022" : 30191.32
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 38139.63,
+		"desmatado_2022" : 21199.81,
+		"incremento_2021_2022" : 28.96,
+		"floresta_2022" : 16939.82
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 11554.02,
+		"desmatado_2022" : 932.17,
+		"incremento_2021_2022" : 110.33,
+		"floresta_2022" : 10621.85
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 32903.24,
+		"desmatado_2022" : 2315.47,
+		"incremento_2021_2022" : 194.31,
+		"floresta_2022" : 30587.77
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 3746.95,
+		"desmatado_2022" : 1891.52,
+		"incremento_2021_2022" : 85.81,
+		"floresta_2022" : 1855.43
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 43130.35,
+		"desmatado_2022" : 25877.2,
+		"incremento_2021_2022" : 50.36,
+		"floresta_2022" : 17253.15
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 33019.91,
+		"desmatado_2022" : 6132.37,
+		"incremento_2021_2022" : 170.45,
+		"floresta_2022" : 26887.54
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 33635.92,
+		"desmatado_2022" : 4663.89,
+		"incremento_2021_2022" : 23.97,
+		"floresta_2022" : 28972.03
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 22347.52,
+		"desmatado_2022" : 1518.14,
+		"incremento_2021_2022" : 167.88,
+		"floresta_2022" : 20829.38
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 16283.69,
+		"desmatado_2022" : 2813.34,
+		"incremento_2021_2022" : 177.67,
+		"floresta_2022" : 13470.35
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 13093.73,
+		"desmatado_2022" : 2693.29,
+		"incremento_2021_2022" : 126.28,
+		"floresta_2022" : 10400.44
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 31147.0,
+		"desmatado_2022" : 12281.44,
+		"incremento_2021_2022" : 94.11,
+		"floresta_2022" : 18865.56
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 33520.31,
+		"desmatado_2022" : 15236.9,
+		"incremento_2021_2022" : 149.38,
+		"floresta_2022" : 18283.41
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 8827.77,
+		"desmatado_2022" : 970.32,
+		"incremento_2021_2022" : 170.25,
+		"floresta_2022" : 7857.45
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 39314.77,
+		"desmatado_2022" : 16523.73,
+		"incremento_2021_2022" : 87.32,
+		"floresta_2022" : 22791.04
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 22451.44,
+		"desmatado_2022" : 7416.2,
+		"incremento_2021_2022" : 55.69,
+		"floresta_2022" : 15035.24
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 9386.09,
+		"desmatado_2022" : 1922.82,
+		"incremento_2021_2022" : 88.29,
+		"floresta_2022" : 7463.27
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 37540.17,
+		"desmatado_2022" : 5930.03,
+		"incremento_2021_2022" : 146.88,
+		"floresta_2022" : 31610.14
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 43264.59,
+		"desmatado_2022" : 22493.64,
+		"incremento_2021_2022" : 62.45,
+		"floresta_2022" : 20770.95
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 57930.86,
+		"desmatado_2022" : 25060.28,
+		"incremento_2021_2022" : 176.26,
+		"floresta_2022" : 32870.58
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 3236.45,
+		"desmatado_2022" : 601.93,
+		"incremento_2021_2022" : 12.67,
+		"floresta_2022" : 2634.52
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 35092.57,
+		"desmatado_2022" : 15007.78,
+		"incremento_2021_2022" : 62.93,
+		"floresta_2022" : 20084.79
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 57867.3,
+		"desmatado_2022" : 25093.44,
+		"incremento_2021_2022" : 71.71,
+		"floresta_2022" : 32773.86
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 10743.6,
+		"desmatado_2022" : 4145.4,
+		"incremento_2021_2022" : 63.03,
+		"floresta_2022" : 6598.2
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 48936.23,
+		"desmatado_2022" : 15152.11,
+		"incremento_2021_2022" : 108.89,
+		"floresta_2022" : 33784.12
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 50255.93,
+		"desmatado_2022" : 23900.36,
+		"incremento_2021_2022" : 131.02,
+		"floresta_2022" : 26355.57
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 18578.01,
+		"desmatado_2022" : 10962.26,
+		"incremento_2021_2022" : 33.22,
+		"floresta_2022" : 7615.75
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 11715.39,
+		"desmatado_2022" : 4700.65,
+		"incremento_2021_2022" : 198.15,
+		"floresta_2022" : 7014.74
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 32995.92,
+		"desmatado_2022" : 19127.25,
+		"incremento_2021_2022" : 133.16,
+		"floresta_2022" : 13868.67
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 28306.22,
+		"desmatado_2022" : 5550.64,
+		"incremento_2021_2022" : 168.69,
+		"floresta_2022" : 22755.58
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 57603.62,
+		"desmatado_2022" : 30880.7,
+		"incremento_2021_2022" : 121.53,
+		"floresta_2022" : 26722.92
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 26870.76,
+		"desmatado_2022" : 2392.42,
+		"incremento_2021_2022" : 160.94,
+		"floresta_2022" : 24478.34
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 10705.22,
+		"desmatado_2022" : 3874.58,
+		"incremento_2021_2022" : 21.37,
+		"floresta_2022" : 6830.64
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 37441.22,
+		"desmatado_2022" : 5893.73,
+		"incremento_2021_2022" : 157.38,
+		"floresta_2022" : 31547.49
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 43454.56,
+		"desmatado_2022" : 19970.17,
+		"incremento_2021_2022" : 173.39,
+		"floresta_2022" : 23484.39
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 8860.88,
+		"desmatado_2022" : 1175.09,
+		"incremento_2021_2022" : 189.14,
+		"floresta_2022" : 7685.79
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 43307.2,
+		"desmatado_2022" : 10527.86,
+		"incremento_2021_2022" : 18.93,
+		"floresta_2022" : 32779.34
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 21550.56,
+		"desmatado_2022" : 2413.54,
+		"incremento_2021_2022" : 140.57,
+		"floresta_2022" : 19137.02
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 22685.06,
+		"desmatado_2022" : 10101.83,
+		"incremento_2021_2022" : 137.0,
+		"floresta_2022" : 12583.23
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 31621.73,
+		"desmatado_2022" : 4303.08,
+		"incremento_2021_2022" : 25.67,
+		"floresta_2022" : 27318.65
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 47944.96,
+		"desmatado_2022" : 22868.53,
+		"incremento_2021_2022" : 64.04,
+		"floresta_2022" : 25076.43
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 3238.31,
+		"desmatado_2022" : 749.83,
+		"incremento_2021_2022" : 163.16,
+		"floresta_2022" : 2488.48
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 10400.89,
+		"desmatado_2022" : 4388.12,
+		"incremento_2021_2022" : 123.93,
+		"floresta_2022" : 6012.77
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 19864.37,
+		"desmatado_2022" : 6048.39,
+		"incremento_2021_2022" : 132.97,
+		"floresta_2022" : 13815.98
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 6163.63,
+		"desmatado_2022" : 1755.96,
+		"incremento_2021_2022" : 178.35,
+		"floresta_2022" : 4407.67
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 5614.92,
+		"desmatado_2022" : 789.44,
+		"incremento_2021_2022" : 172.72,
+		"floresta_2022" : 4825.48
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 48811.97,
+		"desmatado_2022" : 2117.68,
+		"incremento_2021_2022" : 91.66,
+		"floresta_2022" : 46694.29
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 3840.02,
+		"desmatado_2022" : 681.75,
+		"incremento_2021_2022" : 189.22,
+		"floresta_2022" : 3158.27
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 25994.68,
+		"desmatado_2022" : 15315.14,
+		"incremento_2021_2022" : 65.13,
+		"floresta_2022" : 10679.54
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 12888.85,
+		"desmatado_2022" : 6122.95,
+		"incremento_2021_2022" : 24.45,
+		"floresta_2022" : 6765.9
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 50976.1,
+		"desmatado_2022" : 23629.91,
+		"incremento_2021_2022" : 151.51,
+		"floresta_2022" : 27346.19
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 7846.62,
+		"desmatado_2022" : 2372.7,
+		"incremento_2021_2022" : 36.36,
+		"floresta_2022" : 5473.92
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 56503.5,
+		"desmatado_2022" : 18385.16,
+		"incremento_2021_2022" : 79.85,
+		"floresta_2022" : 38118.34
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 21283.72,
+		"desmatado_2022" : 11921.38,
+		"incremento_2021_2022" : 145.91,
+		"floresta_2022" : 9362.34
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 58960.13,
+		"desmatado_2022" : 11961.75,
+		"incremento_2021_2022" : 150.19,
+		"floresta_2022" : 46998.38
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 13296.45,
+		"desmatado_2022" : 2656.34,
+		"incremento_2021_2022" : 165.19,
+		"floresta_2022" : 10640.11
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 20265.43,
+		"desmatado_2022" : 10595.29,
+		"incremento_2021_2022" : 194.15,
+		"floresta_2022" : 9670.14
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 23839.45,
+		"desmatado_2022" : 5916.69,
+		"incremento_2021_2022" : 20.62,
+		"floresta_2022" : 17922.76
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 46441.74,
+		"desmatado_2022" : 27326.12,
+		"incremento_2021_2022" : 196.82,
+		"floresta_2022" : 19115.62
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 27058.3,
+		"desmatado_2022" : 13202.28,
+		"incremento_2021_2022" : 127.35,
+		"floresta_2022" : 13856.02
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 26756.25,
+		"desmatado_2022" : 4116.1,
+		"incremento_2021_2022" : 177.47,
+		"floresta_2022" : 22640.15
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 2731.17,
+		"desmatado_2022" : 582.88,
+		"incremento_2021_2022" : 97.8,
+		"floresta_2022" : 2148.29
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 52342.78,
+		"desmatado_2022" : 15796.7,
+		"incremento_2021_2022" : 171.96,
+		"floresta_2022" : 36546.08
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 16286.79,
+		"desmatado_2022" : 2508.29,
+		"incremento_2021_2022" : 23.02,
+		"floresta_2022" : 13778.5
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 33599.42,
+		"desmatado_2022" : 15725.16,
+		"incremento_2021_2022" : 28.15,
+		"floresta_2022" : 17874.26
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 21369.19,
+		"desmatado_2022" : 11459.47,
+		"incremento_2021_2022" : 121.59,
+		"floresta_2022" : 9909.72
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 40250.6,
+		"desmatado_2022" : 10354.3,
+		"incremento_2021_2022" : 189.85,
+		"floresta_2022" : 29896.3
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 20113.22,
+		"desmatado_2022" : 9328.35,
+		"incremento_2021_2022" : 192.13,
+		"floresta_2022" : 10784.87
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 8848.08,
+		"desmatado_2022" : 1280.53,
+		"incremento_2021_2022" : 46.21,
+		"floresta_2022" : 7567.55
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 15801.36,
+		"desmatado_2022" : 5896.71,
+		"incremento_2021_2022" : 190.71,
+		"floresta_2022" : 9904.65
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 31362.49,
+		"desmatado_2022" : 2349.54,
+		"incremento_2021_2022" : 180.87,
+		"floresta_2022" : 29012.95
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 34236.17,
+		"desmatado_2022" : 3442.14,
+		"incremento_2021_2022" : 188.33,
+		"floresta_2022" : 30794.03
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 32556.3,
+		"desmatado_2022" : 4031.19,
+		"incremento_2021_2022" : 27.39,
+		"floresta_2022" : 28525.11
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 25747.79,
+		"desmatado_2022" : 5516.77,
+		"incremento_2021_2022" : 42.67,
+		"floresta_2022" : 20231.02
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 38624.49,
+		"desmatado_2022" : 5946.75,
+		"incremento_2021_2022" : 125.09,
+		"floresta_2022" : 32677.74
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 13124.11,
+		"desmatado_2022" : 6674.33,
+		"incremento_2021_2022" : 165.23,
+		"floresta_2022" : 6449.78
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 51297.66,
+		"desmatado_2022" : 16172.48,
+		"incremento_2021_2022" : 75.91,
+		"floresta_2022" : 35125.18
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 33421.06,
+		"desmatado_2022" : 4042.32,
+		"incremento_2021_2022" : 172.08,
+		"floresta_2022" : 29378.74
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 39305.31,
+		"desmatado_2022" : 16756.79,
+		"incremento_2021_2022" : 32.09,
+		"floresta_2022" : 22548.52
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 36480.73,
+		"desmatado_2022" : 21126.33,
+		"incremento_2021_2022" : 181.65,
+		"floresta_2022" : 15354.4
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 9039.53,
+		"desmatado_2022" : 3788.82,
+		"incremento_2021_2022" : 20.13,
+		"floresta_2022" : 5250.71
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 27308.28,
+		"desmatado_2022" : 11770.94,
+		"incremento_2021_2022" : 18.21,
+		"floresta_2022" : 15537.34
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 28894.7,
+		"desmatado_2022" : 16899.36,
+		"incremento_2021_2022" : 144.63,
+		"floresta_2022" : 11995.34
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 33626.57,
+		"desmatado_2022" : 4001.18,
+		"incremento_2021_2022" : 71.76,
+		"floresta_2022" : 29625.39
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 47272.53,
+		"desmatado_2022" : 6456.8,
+		"incremento_2021_2022" : 49.72,
+		"floresta_2022" : 40815.73
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 26614.96,
+		"desmatado_2022" : 9632.22,
+		"incremento_2021_2022" : 66.39,
+		"floresta_2022" : 16982.74
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 11545.53,
+		"desmatado_2022" : 6751.72,
+		"incremento_2021_2022" : 156.54,
+		"floresta_2022" : 4793.81
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 30242.3,
+		"desmatado_2022" : 12621.94,
+		"incremento_2021_2022" : 49.54,
+		"floresta_2022" : 17620.36
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 53726.03,
+		"desmatado_2022" : 24847.91,
+		"incremento_2021_2022" : 187.44,
+		"floresta_2022" : 28878.12
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 56329.21,
+		"desmatado_2022" : 27602.53,
+		"incremento_2021_2022" : 50.43,
+		"floresta_2022" : 28726.68
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 40518.11,
+		"desmatado_2022" : 7927.17,
+		"incremento_2021_2022" : 91.58,
+		"floresta_2022" : 32590.94
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 36171.61,
+		"desmatado_2022" : 14004.58,
+		"incremento_2021_2022" : 103.33,
+		"floresta_2022" : 22167.03
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 10275.26,
+		"desmatado_2022" : 5606.19,
+		"incremento_2021_2022" : 177.95,
+		"floresta_2022" : 4669.07
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 11250.49,
+		"desmatado_2022" : 1968.4,
+		"incremento_2021_2022" : 165.81,
+		"floresta_2022" : 9282.09
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 52782.23,
+		"desmatado_2022" : 9118.09,
+		"incremento_2021_2022" : 30.54,
+		"floresta_2022" : 43664.14
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 41972.13,
+		"desmatado_2022" : 860.93,
+		"incremento_2021_2022" : 194.09,
+		"floresta_2022" : 41111.2
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 3581.79,
+		"desmatado_2022" : 1901.39,
+		"incremento_2021_2022" : 76.81,
+		"floresta_2022" : 1680.4
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 39733.73,
+		"desmatado_2022" : 20483.4,
+		"incremento_2021_2022" : 94.93,
+		"floresta_2022" : 19250.33
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 30854.56,
+		"desmatado_2022" : 2550.51,
+		"incremento_2021_2022" : 75.36,
+		"floresta_2022" : 28304.05
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 27665.89,
+		"desmatado_2022" : 3101.11,
+		"incremento_2021_2022" : 72.18,
+		"floresta_2022" : 24564.78
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 50012.25,
+		"desmatado_2022" : 2188.75,
+		"incremento_2021_2022" : 185.48,
+		"floresta_2022" : 47823.5
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 43758.78,
+		"desmatado_2022" : 17320.79,
+		"incremento_2021_2022" : 139.89,
+		"floresta_2022" : 26437.99
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 28691.05,
+		"desmatado_2022" : 14850.06,
+		"incremento_2021_2022" : 82.57,
+		"floresta_2022" : 13840.99
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 33578.69,
+		"desmatado_2022" : 8807.74,
+		"incremento_2021_2022" : 56.36,
+		"floresta_2022" : 24770.95
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 32740.26,
+		"desmatado_2022" : 19448.65,
+		"incremento_2021_2022" : 36.31,
+		"floresta_2022" : 13291.61
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 32857.24,
+		"desmatado_2022" : 13033.97,
+		"incremento_2021_2022" : 77.72,
+		"floresta_2022" : 19823.27
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 47981.87,
+		"desmatado_2022" : 10771.19,
+		"incremento_2021_2022" : 152.78,
+		"floresta_2022" : 37210.68
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 29994.91,
+		"desmatado_2022" : 3546.59,
+		"incremento_2021_2022" : 153.0,
+		"floresta_2022" : 26448.32
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 14859.41,
+		"desmatado_2022" : 7350.76,
+		"incremento_2021_2022" : 32.45,
+		"floresta_2022" : 7508.65
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 40839.4,
+		"desmatado_2022" : 8100.18,
+		"incremento_2021_2022" : 107.3,
+		"floresta_2022" : 32739.22
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 42697.02,
+		"desmatado_2022" : 25197.81,
+		"incremento_2021_2022" : 85.6,
+		"floresta_2022" : 17499.21
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 38721.08,
+		"desmatado_2022" : 1299.13,
+		"incremento_2021_2022" : 60.85,
+		"floresta_2022" : 37421.95
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 58729.49,
+		"desmatado_2022" : 16152.72,
+		"incremento_2021_2022" : 81.62,
+		"floresta_2022" : 42576.77
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 57246.85,
+		"desmatado_2022" : 14538.7,
+		"incremento_2021_2022" : 89.98,
+		"floresta_2022" : 42708.15
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 23075.42,
+		"desmatado_2022" : 3683.86,
+		"incremento_2021_2022" : 170.83,
+		"floresta_2022" : 19391.56
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 22454.58,
+		"desmatado_2022" : 9437.68,
+		"incremento_2021_2022" : 104.56,
+		"floresta_2022" : 13016.9
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 48650.26,
+		"desmatado_2022" : 14896.13,
+		"incremento_2021_2022" : 199.72,
+		"floresta_2022" : 33754.13
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 26429.3,
+		"desmatado_2022" : 12602.06,
+		"incremento_2021_2022" : 191.56,
+		"floresta_2022" : 13827.24
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 31590.3,
+		"desmatado_2022" : 18285.04,
+		"incremento_2021_2022" : 99.84,
+		"floresta_2022" : 13305.26
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 41480.83,
+		"desmatado_2022" : 13913.18,
+		"incremento_2021_2022" : 66.13,
+		"floresta_2022" : 27567.65
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 9724.88,
+		"desmatado_2022" : 3200.58,
+		"incremento_2021_2022" : 60.66,
+		"floresta_2022" : 6524.3
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 59060.14,
+		"desmatado_2022" : 32667.8,
+		"incremento_2021_2022" : 173.23,
+		"floresta_2022" : 26392.34
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 4638.11,
+		"desmatado_2022" : 2713.1,
+		"incremento_2021_2022" : 150.63,
+		"floresta_2022" : 1925.01
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 44709.79,
+		"desmatado_2022" : 4421.43,
+		"incremento_2021_2022" : 88.28,
+		"floresta_2022" : 40288.36
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 19628.29,
+		"desmatado_2022" : 9021.88,
+		"incremento_2021_2022" : 195.78,
+		"floresta_2022" : 10606.41
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 31863.12,
+		"desmatado_2022" : 3937.28,
+		"incremento_2021_2022" : 143.47,
+		"floresta_2022" : 27925.84
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 19431.54,
+		"desmatado_2022" : 1654.27,
+		"incremento_2021_2022" : 166.23,
+		"floresta_2022" : 17777.27
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 41211.66,
+		"desmatado_2022" : 18012.04,
+		"incremento_2021_2022" : 12.45,
+		"floresta_2022" : 23199.62
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 58858.44,
+		"desmatado_2022" : 19565.1,
+		"incremento_2021_2022" : 188.16,
+		"floresta_2022" : 39293.34
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 36877.26,
+		"desmatado_2022" : 3387.91,
+		"incremento_2021_2022" : 75.61,
+		"floresta_2022" : 33489.35
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 16395.77,
+		"desmatado_2022" : 8777.09,
+		"incremento_2021_2022" : 173.13,
+		"floresta_2022" : 7618.68
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 45745.61,
+		"desmatado_2022" : 19358.32,
+		"incremento_2021_2022" : 68.56,
+		"floresta_2022" : 26387.29
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 11873.2,
+		"desmatado_2022" : 4281.52,
+		"incremento_2021_2022" : 30.81,
+		"floresta_2022" : 7591.68
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 13333.57,
+		"desmatado_2022" : 7708.68,
+		"incremento_2021_2022" : 139.56,
+		"floresta_2022" : 5624.89
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 53839.44,
+		"desmatado_2022" : 7707.73,
+		"incremento_2021_2022" : 125.24,
+		"floresta_2022" : 46131.71
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 46140.88,
+		"desmatado_2022" : 16440.63,
+		"incremento_2021_2022" : 93.12,
+		"floresta_2022" : 29700.25
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 54334.85,
+		"desmatado_2022" : 20790.71,
+		"incremento_2021_2022" : 61.39,
+		"floresta_2022" : 33544.14
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 13260.21,
+		"desmatado_2022" : 601.43,
+		"incremento_2021_2022" : 129.47,
+		"floresta_2022" : 12658.78
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 4347.44,
+		"desmatado_2022" : 865.2,
+		"incremento_2021_2022" : 122.79,
+		"floresta_2022" : 3482.24
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 25539.04,
+		"desmatado_2022" : 3501.15,
+		"incremento_2021_2022" : 156.83,
+		"floresta_2022" : 22037.89
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 59172.81,
+		"desmatado_2022" : 31410.94,
+		"incremento_2021_2022" : 145.75,
+		"floresta_2022" : 27761.87
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 58466.47,
+		"desmatado_2022" : 27571.05,
+		"incremento_2021_2022" : 64.28,
+		"floresta_2022" : 30895.42
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 14552.19,
+		"desmatado_2022" : 5582.59,
+		"incremento_2021_2022" : 139.28,
+		"floresta_2022" : 8969.6
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 58297.28,
+		"desmatado_2022" : 22867.15,
+		"incremento_2021_2022" : 175.65,
+		"floresta_2022" : 35430.13
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 22764.66,
+		"desmatado_2022" : 4536.07,
+		"incremento_2021_2022" : 106.61,
+		"floresta_2022" : 18228.59
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 48606.34,
+		"desmatado_2022" : 10972.19,
+		"incremento_2021_2022" : 54.99,
+		"floresta_2022" : 37634.15
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 26796.46,
+		"desmatado_2022" : 4470.9,
+		"incremento_2021_2022" : 20.67,
+		"floresta_2022" : 22325.56
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 32882.57,
+		"desmatado_2022" : 17986.77,
+		"incremento_2021_2022" : 111.19,
+		"floresta_2022" : 14895.8
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 8595.32,
+		"desmatado_2022" : 5132.33,
+		"incremento_2021_2022" : 120.37,
+		"floresta_2022" : 3462.99
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 16930.1,
+		"desmatado_2022" : 8552.72,
+		"incremento_2021_2022" : 143.7,
+		"floresta_2022" : 8377.38
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 41067.69,
+		"desmatado_2022" : 23544.95,
+		"incremento_2021_2022" : 108.32,
+		"floresta_2022" : 17522.74
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 39990.59,
+		"desmatado_2022" : 20396.0,
+		"incremento_2021_2022" : 147.34,
+		"floresta_2022" : 19594.59
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 14634.05,
+		"desmatado_2022" : 2079.16,
+		"incremento_2021_2022" : 132.75,
+		"floresta_2022" : 12554.89
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 13591.07,
+		"desmatado_2022" : 1652.46,
+		"incremento_2021_2022" : 27.32,
+		"floresta_2022" : 11938.61
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 49516.56,
+		"desmatado_2022" : 17968.05,
+		"incremento_2021_2022" : 31.26,
+		"floresta_2022" : 31548.51
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 40262.9,
+		"desmatado_2022" : 6076.08,
+		"incremento_2021_2022" : 109.19,
+		"floresta_2022" : 34186.82
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 6149.77,
+		"desmatado_2022" : 2395.94,
+		"incremento_2021_2022" : 123.08,
+		"floresta_2022" : 3753.83
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 38044.46,
+		"desmatado_2022" : 11060.26,
+		"incremento_2021_2022" : 80.45,
+		"floresta_2022" : 26984.2
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 34093.6,
+		"desmatado_2022" : 2182.31,
+		"incremento_2021_2022" : 198.59,
+		"floresta_2022" : 31911.29
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 50051.77,
+		"desmatado_2022" : 26799.6,
+		"incremento_2021_2022" : 38.42,
+		"floresta_2022" : 23252.17
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 51233.99,
+		"desmatado_2022" : 27048.42,
+		"incremento_2021_2022" : 52.53,
+		"floresta_2022" : 24185.57
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 20960.45,
+		"desmatado_2022" : 11327.29,
+		"incremento_2021_2022" : 186.78,
+		"floresta_2022" : 9633.16
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 45387.9,
+		"desmatado_2022" : 26809.63,
+		"incremento_2021_2022" : 11.36,
+		"floresta_2022" : 18578.27
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 27999.27,
+		"desmatado_2022" : 10975.71,
+		"incremento_2021_2022" : 127.82,
+		"floresta_2022" : 17023.56
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 44196.82,
+		"desmatado_2022" : 17299.32,
+		"incremento_2021_2022" : 186.94,
+		"floresta_2022" : 26897.5
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 39994.28,
+		"desmatado_2022" : 1164.24,
+		"incremento_2021_2022" : 139.15,
+		"floresta_2022" : 38830.04
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 48097.1,
+		"desmatado_2022" : 21857.34,
+		"incremento_2021_2022" : 85.61,
+		"floresta_2022" : 26239.76
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 45993.16,
+		"desmatado_2022" : 7393.62,
+		"incremento_2021_2022" : 11.98,
+		"floresta_2022" : 38599.54
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 5917.78,
+		"desmatado_2022" : 3151.6,
+		"incremento_2021_2022" : 52.68,
+		"floresta_2022" : 2766.18
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 1301.69,
+		"desmatado_2022" : 753.21,
+		"incremento_2021_2022" : 182.01,
+		"floresta_2022" : 548.48
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 40520.05,
+		"desmatado_2022" : 3045.03,
+		"incremento_2021_2022" : 126.62,
+		"floresta_2022" : 37475.02
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 41062.35,
+		"desmatado_2022" : 4748.88,
+		"incremento_2021_2022" : 82.4,
+		"floresta_2022" : 36313.47
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 19263.36,
+		"desmatado_2022" : 5380.66,
+		"incremento_2021_2022" : 37.56,
+		"floresta_2022" : 13882.7
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 14349.98,
+		"desmatado_2022" : 2857.11,
+		"incremento_2021_2022" : 26.82,
+		"floresta_2022" : 11492.87
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 31638.67,
+		"desmatado_2022" : 15362.0,
+		"incremento_2021_2022" : 91.39,
+		"floresta_2022" : 16276.67
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 36583.16,
+		"desmatado_2022" : 4696.49,
+		"incremento_2021_2022" : 19.56,
+		"floresta_2022" : 31886.67
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 30782.86,
+		"desmatado_2022" : 7859.74,
+		"incremento_2021_2022" : 25.87,
+		"floresta_2022" : 22923.12
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 40397.36,
+		"desmatado_2022" : 20003.91,
+		"incremento_2021_2022" : 70.33,
+		"floresta_2022" : 20393.45
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 9027.18,
+		"desmatado_2022" : 1314.17,
+		"incremento_2021_2022" : 30.22,
+		"floresta_2022" : 7713.01
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 20381.41,
+		"desmatado_2022" : 2687.82,
+		"incremento_2021_2022" : 82.19,
+		"floresta_2022" : 17693.59
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 8297.1,
+		"desmatado_2022" : 1581.79,
+		"incremento_2021_2022" : 21.55,
+		"floresta_2022" : 6715.31
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 23963.07,
+		"desmatado_2022" : 5725.21,
+		"incremento_2021_2022" : 93.15,
+		"floresta_2022" : 18237.86
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 57243.55,
+		"desmatado_2022" : 26177.43,
+		"incremento_2021_2022" : 86.05,
+		"floresta_2022" : 31066.12
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 48370.26,
+		"desmatado_2022" : 10698.62,
+		"incremento_2021_2022" : 181.46,
+		"floresta_2022" : 37671.64
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 14114.99,
+		"desmatado_2022" : 1134.38,
+		"incremento_2021_2022" : 189.95,
+		"floresta_2022" : 12980.61
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 40146.55,
+		"desmatado_2022" : 16790.19,
+		"incremento_2021_2022" : 104.52,
+		"floresta_2022" : 23356.36
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 11289.87,
+		"desmatado_2022" : 5506.16,
+		"incremento_2021_2022" : 197.85,
+		"floresta_2022" : 5783.71
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 36553.1,
+		"desmatado_2022" : 8511.32,
+		"incremento_2021_2022" : 75.43,
+		"floresta_2022" : 28041.78
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 28629.68,
+		"desmatado_2022" : 4097.11,
+		"incremento_2021_2022" : 112.34,
+		"floresta_2022" : 24532.57
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 20418.28,
+		"desmatado_2022" : 5837.8,
+		"incremento_2021_2022" : 184.57,
+		"floresta_2022" : 14580.48
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 41967.84,
+		"desmatado_2022" : 3632.31,
+		"incremento_2021_2022" : 125.45,
+		"floresta_2022" : 38335.53
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 5869.8,
+		"desmatado_2022" : 1450.18,
+		"incremento_2021_2022" : 71.26,
+		"floresta_2022" : 4419.62
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 50173.18,
+		"desmatado_2022" : 21836.11,
+		"incremento_2021_2022" : 121.47,
+		"floresta_2022" : 28337.07
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 16370.31,
+		"desmatado_2022" : 7771.66,
+		"incremento_2021_2022" : 123.25,
+		"floresta_2022" : 8598.65
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 58904.49,
+		"desmatado_2022" : 3063.92,
+		"incremento_2021_2022" : 185.79,
+		"floresta_2022" : 55840.57
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 42649.96,
+		"desmatado_2022" : 19061.38,
+		"incremento_2021_2022" : 148.17,
+		"floresta_2022" : 23588.58
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 37305.46,
+		"desmatado_2022" : 10311.27,
+		"incremento_2021_2022" : 89.74,
+		"floresta_2022" : 26994.19
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 32370.26,
+		"desmatado_2022" : 6242.29,
+		"incremento_2021_2022" : 182.12,
+		"floresta_2022" : 26127.97
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 15648.97,
+		"desmatado_2022" : 4484.14,
+		"incremento_2021_2022" : 144.41,
+		"floresta_2022" : 11164.83
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 59720.89,
+		"desmatado_2022" : 35141.62,
+		"incremento_2021_2022" : 127.94,
+		"floresta_2022" : 24579.27
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 35599.91,
+		"desmatado_2022" : 1273.05,
+		"incremento_2021_2022" : 193.51,
+		"floresta_2022" : 34326.86
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 34256.96,
+		"desmatado_2022" : 12734.37,
+		"incremento_2021_2022" : 153.57,
+		"floresta_2022" : 21522.59
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 13851.87,
+		"desmatado_2022" : 2075.58,
+		"incremento_2021_2022" : 11.78,
+		"floresta_2022" : 11776.29
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 3835.71,
+		"desmatado_2022" : 2180.93,
+		"incremento_2021_2022" : 93.2,
+		"floresta_2022" : 1654.78
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 47101.35,
+		"desmatado_2022" : 4436.4,
+		"incremento_2021_2022" : 68.93,
+		"floresta_2022" : 42664.95
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 4419.46,
+		"desmatado_2022" : 2302.9,
+		"incremento_2021_2022" : 168.77,
+		"floresta_2022" : 2116.56
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 49829.32,
+		"desmatado_2022" : 27974.05,
+		"incremento_2021_2022" : 57.99,
+		"floresta_2022" : 21855.27
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 59627.41,
+		"desmatado_2022" : 6528.99,
+		"incremento_2021_2022" : 53.84,
+		"floresta_2022" : 53098.42
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 8236.06,
+		"desmatado_2022" : 3792.97,
+		"incremento_2021_2022" : 168.43,
+		"floresta_2022" : 4443.09
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 45600.73,
+		"desmatado_2022" : 4726.86,
+		"incremento_2021_2022" : 178.18,
+		"floresta_2022" : 40873.87
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 3344.65,
+		"desmatado_2022" : 942.63,
+		"incremento_2021_2022" : 81.61,
+		"floresta_2022" : 2402.02
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 25115.07,
+		"desmatado_2022" : 2231.68,
+		"incremento_2021_2022" : 139.97,
+		"floresta_2022" : 22883.39
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 6362.65,
+		"desmatado_2022" : 2506.74,
+		"incremento_2021_2022" : 98.09,
+		"floresta_2022" : 3855.91
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 55121.05,
+		"desmatado_2022" : 3442.21,
+		"incremento_2021_2022" : 133.9,
+		"floresta_2022" : 51678.84
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 25754.34,
+		"desmatado_2022" : 5422.44,
+		"incremento_2021_2022" : 72.55,
+		"floresta_2022" : 20331.9
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 58669.48,
+		"desmatado_2022" : 26377.9,
+		"incremento_2021_2022" : 24.86,
+		"floresta_2022" : 32291.58
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 13410.03,
+		"desmatado_2022" : 537.34,
+		"incremento_2021_2022" : 162.08,
+		"floresta_2022" : 12872.69
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 22023.86,
+		"desmatado_2022" : 2795.0,
+		"incremento_2021_2022" : 13.29,
+		"floresta_2022" : 19228.86
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 56584.33,
+		"desmatado_2022" : 13073.01,
+		"incremento_2021_2022" : 193.03,
+		"floresta_2022" : 43511.32
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 58590.61,
+		"desmatado_2022" : 18596.56,
+		"incremento_2021_2022" : 184.15,
+		"floresta_2022" : 39994.05
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 43628.08,
+		"desmatado_2022" : 6174.83,
+		"incremento_2021_2022" : 130.1,
+		"floresta_2022" : 37453.25
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 33871.85,
+		"desmatado_2022" : 12909.51,
+		"incremento_2021_2022" : 122.4,
+		"floresta_2022" : 20962.34
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 38633.93,
+		"desmatado_2022" : 1030.82,
+		"incremento_2021_2022" : 54.52,
+		"floresta_2022" : 37603.11
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 35084.29,
+		"desmatado_2022" : 10731.11,
+		"incremento_2021_2022" : 138.69,
+		"floresta_2022" : 24353.18
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 36580.03,
+		"desmatado_2022" : 7027.07,
+		"incremento_2021_2022" : 145.73,
+		"floresta_2022" : 29552.96
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 22717.8,
+		"desmatado_2022" : 3351.62,
+		"incremento_2021_2022" : 58.18,
+		"floresta_2022" : 19366.18
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 34789.78,
+		"desmatado_2022" : 19387.66,
+		"incremento_2021_2022" : 164.98,
+		"floresta_2022" : 15402.12
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 18616.07,
+		"desmatado_2022" : 2114.5,
+		"incremento_2021_2022" : 114.89,
+		"floresta_2022" : 16501.57
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 58691.75,
+		"desmatado_2022" : 21198.3,
+		"incremento_2021_2022" : 21.11,
+		"floresta_2022" : 37493.45
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 12461.01,
+		"desmatado_2022" : 3509.76,
+		"incremento_2021_2022" : 84.93,
+		"floresta_2022" : 8951.25
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 38426.42,
+		"desmatado_2022" : 13413.93,
+		"incremento_2021_2022" : 109.97,
+		"floresta_2022" : 25012.49
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 20072.55,
+		"desmatado_2022" : 4982.62,
+		"incremento_2021_2022" : 68.73,
+		"floresta_2022" : 15089.93
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 28165.68,
+		"desmatado_2022" : 12423.79,
+		"incremento_2021_2022" : 22.59,
+		"floresta_2022" : 15741.89
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 1046.74,
+		"desmatado_2022" : 559.7,
+		"incremento_2021_2022" : 10.15,
+		"floresta_2022" : 487.04
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 33586.22,
+		"desmatado_2022" : 12295.79,
+		"incremento_2021_2022" : 68.21,
+		"floresta_2022" : 21290.43
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 8352.65,
+		"desmatado_2022" : 1972.53,
+		"incremento_2021_2022" : 76.99,
+		"floresta_2022" : 6380.12
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 28531.67,
+		"desmatado_2022" : 3669.26,
+		"incremento_2021_2022" : 167.16,
+		"floresta_2022" : 24862.41
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 46046.43,
+		"desmatado_2022" : 20380.32,
+		"incremento_2021_2022" : 28.42,
+		"floresta_2022" : 25666.11
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 44001.1,
+		"desmatado_2022" : 5138.53,
+		"incremento_2021_2022" : 55.9,
+		"floresta_2022" : 38862.57
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 9436.97,
+		"desmatado_2022" : 5360.51,
+		"incremento_2021_2022" : 109.63,
+		"floresta_2022" : 4076.46
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 56090.35,
+		"desmatado_2022" : 10309.67,
+		"incremento_2021_2022" : 181.95,
+		"floresta_2022" : 45780.68
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 59488.77,
+		"desmatado_2022" : 21016.68,
+		"incremento_2021_2022" : 132.98,
+		"floresta_2022" : 38472.09
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 29858.5,
+		"desmatado_2022" : 7299.45,
+		"incremento_2021_2022" : 31.15,
+		"floresta_2022" : 22559.05
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 3779.91,
+		"desmatado_2022" : 1310.45,
+		"incremento_2021_2022" : 34.73,
+		"floresta_2022" : 2469.46
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 34278.34,
+		"desmatado_2022" : 6234.87,
+		"incremento_2021_2022" : 150.31,
+		"floresta_2022" : 28043.47
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 42982.84,
+		"desmatado_2022" : 10700.71,
+		"incremento_2021_2022" : 168.75,
+		"floresta_2022" : 32282.13
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 51057.8,
+		"desmatado_2022" : 17701.48,
+		"incremento_2021_2022" : 29.56,
+		"floresta_2022" : 33356.32
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 31353.01,
+		"desmatado_2022" : 18185.12,
+		"incremento_2021_2022" : 123.08,
+		"floresta_2022" : 13167.89
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 39411.03,
+		"desmatado_2022" : 15974.47,
+		"incremento_2021_2022" : 134.4,
+		"floresta_2022" : 23436.56
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 56911.65,
+		"desmatado_2022" : 15037.11,
+		"incremento_2021_2022" : 179.46,
+		"floresta_2022" : 41874.54
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 48162.02,
+		"desmatado_2022" : 8513.64,
+		"incremento_2021_2022" : 187.14,
+		"floresta_2022" : 39648.38
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 47747.28,
+		"desmatado_2022" : 20256.2,
+		"incremento_2021_2022" : 94.07,
+		"floresta_2022" : 27491.08
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 31637.67,
+		"desmatado_2022" : 14625.23,
+		"incremento_2021_2022" : 48.36,
+		"floresta_2022" : 17012.44
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 16870.03,
+		"desmatado_2022" : 8719.62,
+		"incremento_2021_2022" : 11.86,
+		"floresta_2022" : 8150.41
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 3640.73,
+		"desmatado_2022" : 756.08,
+		"incremento_2021_2022" : 176.92,
+		"floresta_2022" : 2884.65
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 33824.69,
+		"desmatado_2022" : 15815.71,
+		"incremento_2021_2022" : 159.49,
+		"floresta_2022" : 18008.98
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 14626.99,
+		"desmatado_2022" : 4817.79,
+		"incremento_2021_2022" : 111.74,
+		"floresta_2022" : 9809.2
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 5406.48,
+		"desmatado_2022" : 2260.76,
+		"incremento_2021_2022" : 29.18,
+		"floresta_2022" : 3145.72
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 56187.51,
+		"desmatado_2022" : 27439.0,
+		"incremento_2021_2022" : 15.0,
+		"floresta_2022" : 28748.51
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 28378.43,
+		"desmatado_2022" : 11481.31,
+		"incremento_2021_2022" : 165.34,
+		"floresta_2022" : 16897.12
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 38717.43,
+		"desmatado_2022" : 4895.34,
+		"incremento_2021_2022" : 62.57,
+		"floresta_2022" : 33822.09
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 48565.84,
+		"desmatado_2022" : 8231.12,
+		"incremento_2021_2022" : 143.29,
+		"floresta_2022" : 40334.72
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 49862.16,
+		"desmatado_2022" : 16043.06,
+		"incremento_2021_2022" : 147.17,
+		"floresta_2022" : 33819.1
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 50707.35,
+		"desmatado_2022" : 2852.91,
+		"incremento_2021_2022" : 132.08,
+		"floresta_2022" : 47854.44
+	},
+	{
+		"municipio" : "Manicoré",
+		"estado" : "AM",
+		"area_km2" : 52718.25,
+		"desmatado_2022" : 14546.05,
+		"incremento_2021_2022" : 159.06,
+		"floresta_2022" : 38172.2
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 20845.83,
+		"desmatado_2022" : 890.7,
+		"incremento_2021_2022" : 155.18,
+		"floresta_2022" : 19955.13
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 15090.68,
+		"desmatado_2022" : 1052.11,
+		"incremento_2021_2022" : 112.82,
+		"floresta_2022" : 14038.57
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 48691.8,
+		"desmatado_2022" : 5001.12,
+		"incremento_2021_2022" : 145.72,
+		"floresta_2022" : 43690.68
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 5160.73,
+		"desmatado_2022" : 2815.57,
+		"incremento_2021_2022" : 97.24,
+		"floresta_2022" : 2345.16
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 13879.51,
+		"desmatado_2022" : 3153.65,
+		"incremento_2021_2022" : 108.12,
+		"floresta_2022" : 10725.86
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 10514.57,
+		"desmatado_2022" : 5012.85,
+		"incremento_2021_2022" : 67.91,
+		"floresta_2022" : 5501.72
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 34852.5,
+		"desmatado_2022" : 20110.56,
+		"incremento_2021_2022" : 11.79,
+		"floresta_2022" : 14741.94
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 37879.42,
+		"desmatado_2022" : 18549.94,
+		"incremento_2021_2022" : 168.96,
+		"floresta_2022" : 19329.48
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 25324.78,
+		"desmatado_2022" : 1772.43,
+		"incremento_2021_2022" : 147.92,
+		"floresta_2022" : 23552.35
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 56914.23,
+		"desmatado_2022" : 2996.03,
+		"incremento_2021_2022" : 64.75,
+		"floresta_2022" : 53918.2
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 31929.36,
+		"desmatado_2022" : 8262.29,
+		"incremento_2021_2022" : 96.24,
+		"floresta_2022" : 23667.07
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 52760.46,
+		"desmatado_2022" : 8563.88,
+		"incremento_2021_2022" : 167.79,
+		"floresta_2022" : 44196.58
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 56845.05,
+		"desmatado_2022" : 16230.06,
+		"incremento_2021_2022" : 186.4,
+		"floresta_2022" : 40614.99
+	},
+	{
+		"municipio" : "Iranduba",
+		"estado" : "AM",
+		"area_km2" : 54398.5,
+		"desmatado_2022" : 23235.52,
+		"incremento_2021_2022" : 83.59,
+		"floresta_2022" : 31162.98
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 7120.02,
+		"desmatado_2022" : 2829.19,
+		"incremento_2021_2022" : 138.09,
+		"floresta_2022" : 4290.83
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 53469.28,
+		"desmatado_2022" : 14686.84,
+		"incremento_2021_2022" : 139.15,
+		"floresta_2022" : 38782.44
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 44630.23,
+		"desmatado_2022" : 9972.26,
+		"incremento_2021_2022" : 139.04,
+		"floresta_2022" : 34657.97
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 52124.48,
+		"desmatado_2022" : 22216.93,
+		"incremento_2021_2022" : 82.37,
+		"floresta_2022" : 29907.55
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 22871.98,
+		"desmatado_2022" : 11116.59,
+		"incremento_2021_2022" : 116.6,
+		"floresta_2022" : 11755.39
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 25636.84,
+		"desmatado_2022" : 5643.42,
+		"incremento_2021_2022" : 41.09,
+		"floresta_2022" : 19993.42
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 27663.15,
+		"desmatado_2022" : 11923.89,
+		"incremento_2021_2022" : 38.9,
+		"floresta_2022" : 15739.26
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 16903.53,
+		"desmatado_2022" : 8898.22,
+		"incremento_2021_2022" : 42.41,
+		"floresta_2022" : 8005.31
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 56162.83,
+		"desmatado_2022" : 9091.96,
+		"incremento_2021_2022" : 39.24,
+		"floresta_2022" : 47070.87
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 51615.71,
+		"desmatado_2022" : 30330.06,
+		"incremento_2021_2022" : 31.89,
+		"floresta_2022" : 21285.65
+	},
+	{
+		"municipio" : "Tabatinga",
+		"estado" : "AM",
+		"area_km2" : 16220.37,
+		"desmatado_2022" : 3482.85,
+		"incremento_2021_2022" : 138.2,
+		"floresta_2022" : 12737.52
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 49361.74,
+		"desmatado_2022" : 18119.65,
+		"incremento_2021_2022" : 120.75,
+		"floresta_2022" : 31242.09
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 28617.35,
+		"desmatado_2022" : 16962.17,
+		"incremento_2021_2022" : 64.91,
+		"floresta_2022" : 11655.18
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 10962.36,
+		"desmatado_2022" : 3035.41,
+		"incremento_2021_2022" : 26.02,
+		"floresta_2022" : 7926.95
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 42700.57,
+		"desmatado_2022" : 2364.51,
+		"incremento_2021_2022" : 109.79,
+		"floresta_2022" : 40336.06
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 13226.78,
+		"desmatado_2022" : 3069.56,
+		"incremento_2021_2022" : 48.31,
+		"floresta_2022" : 10157.22
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 49439.44,
+		"desmatado_2022" : 6022.8,
+		"incremento_2021_2022" : 78.63,
+		"floresta_2022" : 43416.64
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 32810.15,
+		"desmatado_2022" : 6733.73,
+		"incremento_2021_2022" : 137.6,
+		"floresta_2022" : 26076.42
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 29539.44,
+		"desmatado_2022" : 13095.73,
+		"incremento_2021_2022" : 167.2,
+		"floresta_2022" : 16443.71
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 59659.6,
+		"desmatado_2022" : 11041.84,
+		"incremento_2021_2022" : 55.17,
+		"floresta_2022" : 48617.76
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 57927.57,
+		"desmatado_2022" : 9361.27,
+		"incremento_2021_2022" : 13.66,
+		"floresta_2022" : 48566.3
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 35631.29,
+		"desmatado_2022" : 18170.6,
+		"incremento_2021_2022" : 105.31,
+		"floresta_2022" : 17460.69
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 10119.39,
+		"desmatado_2022" : 3612.25,
+		"incremento_2021_2022" : 64.71,
+		"floresta_2022" : 6507.14
+	},
+	{
+		"municipio" : "Humaitá",
+		"estado" : "AM",
+		"area_km2" : 45270.25,
+		"desmatado_2022" : 26853.59,
+		"incremento_2021_2022" : 120.95,
+		"floresta_2022" : 18416.66
+	},
+	{
+		"municipio" : "Tefé",
+		"estado" : "AM",
+		"area_km2" : 53027.21,
+		"desmatado_2022" : 24233.48,
+		"incremento_2021_2022" : 97.64,
+		"floresta_2022" : 28793.73
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 39771.73,
+		"desmatado_2022" : 1066.56,
+		"incremento_2021_2022" : 175.63,
+		"floresta_2022" : 38705.17
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 26753.49,
+		"desmatado_2022" : 1515.29,
+		"incremento_2021_2022" : 169.66,
+		"floresta_2022" : 25238.2
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 46350.24,
+		"desmatado_2022" : 25656.82,
+		"incremento_2021_2022" : 81.48,
+		"floresta_2022" : 20693.42
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 31653.4,
+		"desmatado_2022" : 11322.97,
+		"incremento_2021_2022" : 75.9,
+		"floresta_2022" : 20330.43
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 22178.57,
+		"desmatado_2022" : 13074.94,
+		"incremento_2021_2022" : 183.48,
+		"floresta_2022" : 9103.63
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 24757.56,
+		"desmatado_2022" : 13216.07,
+		"incremento_2021_2022" : 31.05,
+		"floresta_2022" : 11541.49
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 42114.92,
+		"desmatado_2022" : 14794.9,
+		"incremento_2021_2022" : 72.39,
+		"floresta_2022" : 27320.02
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 8375.49,
+		"desmatado_2022" : 3179.03,
+		"incremento_2021_2022" : 134.23,
+		"floresta_2022" : 5196.46
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 50155.34,
+		"desmatado_2022" : 5062.61,
+		"incremento_2021_2022" : 177.7,
+		"floresta_2022" : 45092.73
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 33230.59,
+		"desmatado_2022" : 6787.04,
+		"incremento_2021_2022" : 110.5,
+		"floresta_2022" : 26443.55
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 30651.92,
+		"desmatado_2022" : 14927.49,
+		"incremento_2021_2022" : 41.97,
+		"floresta_2022" : 15724.43
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 30056.28,
+		"desmatado_2022" : 17671.46,
+		"incremento_2021_2022" : 73.92,
+		"floresta_2022" : 12384.82
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 27035.92,
+		"desmatado_2022" : 3816.52,
+		"incremento_2021_2022" : 145.32,
+		"floresta_2022" : 23219.4
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 47456.17,
+		"desmatado_2022" : 25929.9,
+		"incremento_2021_2022" : 56.43,
+		"floresta_2022" : 21526.27
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 12596.22,
+		"desmatado_2022" : 3393.35,
+		"incremento_2021_2022" : 43.43,
+		"floresta_2022" : 9202.87
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 31835.74,
+		"desmatado_2022" : 11654.09,
+		"incremento_2021_2022" : 14.23,
+		"floresta_2022" : 20181.65
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 32744.6,
+		"desmatado_2022" : 3914.45,
+		"incremento_2021_2022" : 65.86,
+		"floresta_2022" : 28830.15
+	},
+	{
+		"municipio" : "Maués",
+		"estado" : "AM",
+		"area_km2" : 44829.93,
+		"desmatado_2022" : 18901.59,
+		"incremento_2021_2022" : 118.34,
+		"floresta_2022" : 25928.34
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 53081.84,
+		"desmatado_2022" : 27561.41,
+		"incremento_2021_2022" : 178.38,
+		"floresta_2022" : 25520.43
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 32136.14,
+		"desmatado_2022" : 12968.79,
+		"incremento_2021_2022" : 112.33,
+		"floresta_2022" : 19167.35
+	},
+	{
+		"municipio" : "Novo Aripuanã",
+		"estado" : "AM",
+		"area_km2" : 12825.05,
+		"desmatado_2022" : 2119.58,
+		"incremento_2021_2022" : 53.47,
+		"floresta_2022" : 10705.47
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 4477.35,
+		"desmatado_2022" : 1300.98,
+		"incremento_2021_2022" : 47.65,
+		"floresta_2022" : 3176.37
+	},
+	{
+		"municipio" : "Benjamin Constant",
+		"estado" : "AM",
+		"area_km2" : 38326.81,
+		"desmatado_2022" : 16511.51,
+		"incremento_2021_2022" : 53.93,
+		"floresta_2022" : 21815.3
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 7647.68,
+		"desmatado_2022" : 2096.27,
+		"incremento_2021_2022" : 190.68,
+		"floresta_2022" : 5551.41
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 48568.32,
+		"desmatado_2022" : 28930.56,
+		"incremento_2021_2022" : 118.06,
+		"floresta_2022" : 19637.76
+	},
+	{
+		"municipio" : "Boca do Acre",
+		"estado" : "AM",
+		"area_km2" : 2879.02,
+		"desmatado_2022" : 1130.01,
+		"incremento_2021_2022" : 43.06,
+		"floresta_2022" : 1749.01
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 47355.18,
+		"desmatado_2022" : 1520.72,
+		"incremento_2021_2022" : 61.66,
+		"floresta_2022" : 45834.46
+	},
+	{
+		"municipio" : "Eirunepé",
+		"estado" : "AM",
+		"area_km2" : 37809.85,
+		"desmatado_2022" : 7340.87,
+		"incremento_2021_2022" : 114.65,
+		"floresta_2022" : 30468.98
+	},
+	{
+		"municipio" : "Parintins",
+		"estado" : "AM",
+		"area_km2" : 15162.76,
+		"desmatado_2022" : 5116.12,
+		"incremento_2021_2022" : 148.01,
+		"floresta_2022" : 10046.64
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 4879.5,
+		"desmatado_2022" : 2566.17,
+		"incremento_2021_2022" : 113.1,
+		"floresta_2022" : 2313.33
+	},
+	{
+		"municipio" : "Manacapuru",
+		"estado" : "AM",
+		"area_km2" : 52166.64,
+		"desmatado_2022" : 12850.83,
+		"incremento_2021_2022" : 46.6,
+		"floresta_2022" : 39315.81
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 22681.81,
+		"desmatado_2022" : 655.56,
+		"incremento_2021_2022" : 106.04,
+		"floresta_2022" : 22026.25
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 24277.22,
+		"desmatado_2022" : 13710.88,
+		"incremento_2021_2022" : 131.02,
+		"floresta_2022" : 10566.34
+	},
+	{
+		"municipio" : "Autazes",
+		"estado" : "AM",
+		"area_km2" : 47540.58,
+		"desmatado_2022" : 739.93,
+		"incremento_2021_2022" : 33.43,
+		"floresta_2022" : 46800.65
+	},
+	{
+		"municipio" : "Presidente Figueiredo",
+		"estado" : "AM",
+		"area_km2" : 44052.22,
+		"desmatado_2022" : 22914.51,
+		"incremento_2021_2022" : 73.05,
+		"floresta_2022" : 21137.71
+	},
+	{
+		"municipio" : "Manaus",
+		"estado" : "AM",
+		"area_km2" : 20133.13,
+		"desmatado_2022" : 575.61,
+		"incremento_2021_2022" : 96.05,
+		"floresta_2022" : 19557.52
+	},
+	{
+		"municipio" : "Lábrea",
+		"estado" : "AM",
+		"area_km2" : 39419.97,
+		"desmatado_2022" : 15954.17,
+		"incremento_2021_2022" : 19.74,
+		"floresta_2022" : 23465.8
+	},
+	{
+		"municipio" : "Borba",
+		"estado" : "AM",
+		"area_km2" : 25342.72,
+		"desmatado_2022" : 1688.77,
+		"incremento_2021_2022" : 107.98,
+		"floresta_2022" : 23653.95
+	},
+	{
+		"municipio" : "Coari",
+		"estado" : "AM",
+		"area_km2" : 7664.02,
+		"desmatado_2022" : 4371.57,
+		"incremento_2021_2022" : 197.74,
+		"floresta_2022" : 3292.45
+	},
+	{
+		"municipio" : "São Gabriel da Cachoeira",
+		"estado" : "AM",
+		"area_km2" : 27286.55,
+		"desmatado_2022" : 9062.82,
+		"incremento_2021_2022" : 157.03,
+		"floresta_2022" : 18223.73
+	},
+	{
+		"municipio" : "Itacoatiara",
+		"estado" : "AM",
+		"area_km2" : 14838.13,
+		"desmatado_2022" : 2932.07,
+		"incremento_2021_2022" : 170.82,
+		"floresta_2022" : 11906.06
+	}
+]}
